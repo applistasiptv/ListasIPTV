@@ -1,0 +1,189 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 25/03/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 28/03/2018 
+http://0.0.0.0
+
+
+
+################################################################################# Futebol Ao Vivo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8
+
+
+
+
+
+
+
+
+
+##################################################ESPORTE###################################################################################################################
+##################################################       ###################################################################################################################
+
+
+#EXTINF:-1 tvg-logo="http://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="ESPORTE",SPORTV FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/11472.ts
+
+#EXTINF:-1 tvg-logo="http://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="ESPORTE",SPORTV HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1583.ts
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-nnEamviMDpI/U2Lg5QpFBZI/AAAAAAAAHvE/PgvDS2tIlhk/s1600/sportv2-logo-online-web-24-horas4.png" group-title="ESPORTE",SPORTV 2 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17052.ts
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-nnEamviMDpI/U2Lg5QpFBZI/AAAAAAAAHvE/PgvDS2tIlhk/s1600/sportv2-logo-online-web-24-horas4.png" group-title="ESPORTE",SPORTV 2 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1619.ts
+
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/1023" group-title="ESPORTE",SPORTV 3 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17042.ts
+
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/1023" group-title="ESPORTE",SPORTV 3 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1620.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTE",FOX SPORTS FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/13522.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTE",FOX SPORTS HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1589.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/8e/Fox_Sports_2.png/revision/latest?cb=20140310142938" group-title="ESPORTE",FOX SPORTS 2 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17044.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/8e/Fox_Sports_2.png/revision/latest?cb=20140310142938" group-title="ESPORTE",FOX SPORTS 2 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1499.ts
+
+#EXTINF:-1 tvg-logo="http://futebolaovivovitao.com/wp-content/uploads/2017/12/1992.png" group-title="ESPORTE",ESPN BRASIL FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/13523.ts
+
+#EXTINF:-1 tvg-logo="http://futebolaovivovitao.com/wp-content/uploads/2017/12/1992.png" group-title="ESPORTE",ESPN BRASIL HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1588.ts
+
+#EXTINF:-1 tvg-logo="http://midia.cearasc.com/img/noticias/EI_2.png" group-title="ESPORTE",ESPORTE INTERATIVO FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17119.ts
+
+#EXTINF:-1 tvg-logo="http://midia.cearasc.com/img/noticias/EI_2.png" group-title="ESPORTE",ESPORTE INTERATIVO HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/394.ts
+
+#EXTINF:-1 tvg-logo="http://tvonline.vip/wp-content/uploads/2016/04/esporteinterativobr.png" group-title="ESPORTE",ESPORTE INTERATIVO 2 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17120.ts
+
+#EXTINF:-1 tvg-logo="http://tvonline.vip/wp-content/uploads/2016/04/esporteinterativobr.png" group-title="ESPORTE",ESPORTE INTERATIVO 2 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1675.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTE",COMBATE FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/12203.ts
+
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-UjI_CcLsh2M/UONrCxLlF3I/AAAAAAAAAE8/en4fJvoedH4/s400/canal%2Boff.jpg" group-title="ESPORTE",OFF HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/398.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTE",COMBATE HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1601.ts
+
+#EXTINF:-1 tvg-logo="http://www.mundocross.com.br/wp-content/uploads/2011/05/logo-band-sports.png" group-title="ESPORTE",BAND SPORTS HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1600.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/13517.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/204.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 2 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/13796.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 2 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1717.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 3 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/13797.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 3 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1721.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 4 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17051.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 4 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1722.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="PREMIERE",PREMIERE CLUBES 5 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17050.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 5 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/1723.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 6 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17049.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 6 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/8488.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 7 FHD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/17048.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 7 HD 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/8482.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 8 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/206.ts
+
+#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTE",PREMIERE CLUBES 9 
+http://dns.infinitytv.xyz:8000/live/47991396278/meNGFIPQIK/205.ts
