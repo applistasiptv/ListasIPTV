@@ -1,0 +1,69 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 25/03/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 28/03/2018 
+http://0.0.0.0
+
+
+
+################################################################################# Futebol Ao Vivo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8
