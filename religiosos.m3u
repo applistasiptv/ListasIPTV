@@ -25,49 +25,49 @@ http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8
 
 #EXTINF:-1 tvg-id="Tvfeliz.br" tvg-logo="http://i.imgur.com/5IC5kuO.png" group-title="RELIGIOSOS",TV Feliz
-https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-logo="http://s6.postimg.org/6k3nby9gx/evangelizar.png" group-title="RELIGIOSOS",TV Evangelizar
-http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSOS",Novo Tempo SP
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="RELIGIOSOS",Rede Vida
-http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://i.imgur.com/iD1xVNR.png" group-title="RELIGIOSOS",Boa Vontade
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
 
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSOS",Rede Século 21
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/qd4ZMLd.png" group-title="RELIGIOSOS",CJC TV
-http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS",IURD TV
-http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?PEDROJUNIORTUTORIAIS
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS",IURD TV Internacional
-http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?PEDROJUNIORTUTORIAIS
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/CxIuCFa.png" group-title="RELIGIOSOS",Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xX2IFya.jpg" group-title="RELIGIOSOS",TV Verdade
-http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="RELIGIOSOS",Vem & Vê TV 1
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="RELIGIOSOS",Vem & Vê TV 2
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="RELIGIOSOS",TV Terceiro Anjo
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tWqhirq.png" group-title="RELIGIOSOS",Portal Gospel
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/c0Yv7h1.png" group-title="RELIGIOSOS",Rede Gênesis
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
