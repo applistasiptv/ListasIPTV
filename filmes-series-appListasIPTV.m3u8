@@ -1,15 +1,465 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 25/03/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 29/03/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 28/03/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 29/03/2018 
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://goo.gl/ojnJKv" group-title="Game Of Thrones" , T1|EP1
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP2
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP3
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP4
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP5
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP6
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP7
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP8
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP9
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZsjx2x.jpg" group-title="Game Of Thrones" , T1|EP10
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/10-ALTO.mp4
 
-#EXTINF:1 tvg-logo="http://s20.postimg.org/vtyvann9p/TOMEJERRY.png" group-title="Desenhos 24 Horas",Tom and Jerry Dublado
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP1
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP2
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP3
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP4
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP5
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP6
+https://www.blogger.com/video-play.mp4?contentId=5af4c932e4220981&SerieSD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP7
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP8
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP9
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4Dc4dqO.jpg" group-title="Game Of Thrones" , T2|EP10
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/02dub/10-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP1
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP2
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP3
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/03-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP4
+https://www.blogger.com/video-play.mp4?contentId=cf59219a7de0b593&SerieSD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP5
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP6
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP7
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP8
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP9
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VAiiTwG.jpg" group-title="Game Of Thrones" , T3|EP10
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/03dub/10-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP1
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/04dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP2
+https://www.blogger.com/video-play.mp4?contentId=efe662b29e269820&SerieSD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP3
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/04dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP4
+https://www.blogger.com/video-play.mp4?contentId=98b8e149ad4187f3&SerieSD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP5
+https://www.blogger.com/video-play.mp4?contentId=2aee71da91d1a281&SerieSD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP6
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/04dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP7
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/04dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP8
+https://www.blogger.com/video-play.mp4?contentId=8c05f4ab52d24166&SerieSD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP9
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/04dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vJNVL26.jpg" group-title="Game Of Thrones" , T4|EP10
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/04dub/10-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP1
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP2
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP3
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP4
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP5
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP6
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP7
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP8
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP9
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKOb4f5.jpg" group-title="Game Of Thrones" , T5|EP10
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/05dub/10-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP1
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP2
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP3
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP4
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP5
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP6
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP7
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP8
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP9
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HhFCy0a.jpg" group-title="Game Of Thrones" , T6|EP10
+http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/06dub/10-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/got/07dub/001-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/got/07dub/002-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/got/07dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/got/07dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/got/07dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/got/07dub/S06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP7 (FINAL DA TEMP.)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07dub/07-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07leg/002-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07leg/0003-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07leg/004-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07leg/S05-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07leg/S07E06-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lH1EpA2.jpg" group-title="Game Of Thrones" , T7|EP7 (LEG - SEASON FINALE)
+http://cdn1.ntcdn.us/content/httpdelivery/got/07leg/G07-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kK9ypq" group-title="Gotham", T4|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/DAtJkD" group-title="Gotham", T4|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/JMgs61" group-title="Gotham", T4|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tWsSGa" group-title="Gotham", T4|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/LmWW2M" group-title="Gotham", T4|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tUVAkK" group-title="Gotham", T4|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/006-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Keod34" group-title="Gotham", T4|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oXNkN6" group-title="Gotham", T4|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/A5idzG" group-title="Gotham", T4|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/A5idzG" group-title="Gotham", T4|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/A5idzG" group-title="Gotham", T4|EP11 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tUVAkK" group-title="Gotham", T4|EP12 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tUVAkK" group-title="Gotham", T4|EP13 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/13-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tUVAkK" group-title="Gotham", T4|EP14 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/14-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/tUVAkK" group-title="Gotham", T4|EP15 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/gotham/04leg/15-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP11 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP12 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP13 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/13-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP14 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/14-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VJvPbT" group-title="Grey's Anatomy", T14|EP15 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/greys/14leg/15-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T4|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/04dub/13-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Vu5qzg" group-title="HOUSE OF CARDS", HOC T5|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/hoc/05dub/13-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/SXM3em" group-title="Inumanos", T1|EP1-2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/U9b5Lc" group-title="Inumanos", T1|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/shZ31w" group-title="Inumanos", T1|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Eoi6Xi" group-title="Inumanos", T1|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GekxrU" group-title="Inumanos", T1|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/xWUKFS" group-title="Inumanos", T1|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/aPpEuT" group-title="Inumanos", T1|EP8 (LEG - SEASON FINALE)
+http://cdn1.ntcdn.us/content/httpdelivery/inhumans/01leg/08-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP1 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-bucket/izombie/03leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP2 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-bucket/izombie/03leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP3 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-bucket/izombie/03leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP4 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-bucket/izombie/03leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP5 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-bucket/izombie/03leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP11 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP12 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie", T3|EP13 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/03leg/13-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/uBKbB7" group-title="Izombie", T4|EP1 (LEG)  
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/04leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/uBKbB7" group-title="Izombie", T4|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/04leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/uBKbB7" group-title="Izombie", T4|EP3 (LEG)  
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/04leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/uBKbB7" group-title="Izombie", T4|EP4 (LEG)  
+http://cdn1.ntcdn.us/content/httpdelivery/izombie/04leg/04-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7NcYyJ" group-title="Jessica Jones", T1|EP1
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP2
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP3
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP4
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP5
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP6
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP7
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP8
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP9
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP10
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP11
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP12
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP13
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01dub/13-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP1 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP2 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP3 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP4 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP5 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP6 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP7 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP8 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP9 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP10 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP11 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP12 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QFqUxa" group-title="Jessica Jones", T1|EP13 (LEG)
+http://cdn7.ntcdn.us/sobdemanda/netcine-videos/jessicajones/01leg/13-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP8
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02dub/13-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/001-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/002-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/003-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/004-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/005-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/006-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/007-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/008-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/009-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/010-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP11 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/011-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP12 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/012-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/HNrLZP" group-title="Jessica Jones", T2|EP13 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/jessica/02leg/013-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/rE8oLS" group-title="Knightfall", T1|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/sN6xcb" group-title="Knightfall", T1|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/kf/01leg/10-ALTO.mp4
+
+
 #EXTINF:1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A Grande História",SAL
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4
 
@@ -61,6 +511,124 @@ http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c
 #EXTINF:1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A Grande História",FINAL
 http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP9-10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP11 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP12 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP13 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/13-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wYwVc5" group-title="Fear The Walking Dead", T3|EP14 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/ftwd/03leg/14-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xrDhh2" group-title="Flash", T4|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/enYfYn" group-title="Flash", T4|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/QeNyva" group-title="Flash", T4|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KFj4mm" group-title="Flash", T4|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VrWR7d" group-title="Flash", T4|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP7
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP8 CROSSOVER PARTE 3
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP9
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP10
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP11
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP12
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP13
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/13-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP14
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04dub/14-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/c9Qh5w" group-title="Flash", T4|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oT9D2E" group-title="Flash", T4|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/TF02LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/35Nyx9" group-title="Flash", T4|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/toumBZ" group-title="Flash", T4|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FLASH04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/XeY9eR" group-title="Flash", T4|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/TF05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/THEFLASH06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FL07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/TFLASH08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/A10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP11 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FLASH4X11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP12 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/FLASH12-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP13 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/0FLASH1300-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP14 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/014FLASH-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP15 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/THEFLASH015-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/CGZE6h" group-title="Flash", T4|EP16 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/theflash/04leg/16-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01dub/04-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/qozucQ" group-title="Fugitivos", T1|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/runaways/01leg/10-ALTO.mp4
 
 #EXTINF:1 tvg-logo="http://i.imgur.com/L2kdlxp.jpg" group-title="BALLERS",1X1
 https://www.blogger.com/video-play.mp4?contentId=8b37897c15e163a8
@@ -19111,6 +19679,115 @@ http://www.blogger.com/video-play.mp4?contentId=ecc2724610872606&appListasIPTV
 #EXTINF:1 tvg-logo="https://i.imgur.com/qTRQKuh.jpg" group-title="SERIE - ZOO - LEG",ZOO S3|EP11
 http://www.blogger.com/video-play.mp4?contentId=d38e708bd3ec3a93&appListasIPTV
 
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/01dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/01dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/01dub/03-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T2|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/02dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T2|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/02dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T2|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/02dub/03-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T3|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/03dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T3|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/03dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T3|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/03dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T3|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/03dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T3|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/03dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T3|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/03dub/06-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T4|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/04dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T4|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/04dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T4|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/04dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T4|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/04dub/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T4|EP5
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/04dub/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7qhXTQ" group-title="Black Mirror", T4|EP6
+http://cdn1.ntcdn.us/content/httpdelivery/blackmirror/04dub/06-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP1  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP2  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP3  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP4  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP5  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP6  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP7  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP8  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP9  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP10  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/10-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP11  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/11-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP12  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/012-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP13  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/13-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP14  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/14-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dnE2ea" group-title="Blindspot", T3|EP15  
+http://cdn1.ntcdn.us/content/httpdelivery/blindspot/03leg/15-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP1
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01dub/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP2
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01dub/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP3
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01dub/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP4
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01dub/04-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VqnjN2" group-title="Chefes Do Tráfico", T1|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/druglords/01leg/04-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP1 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/01-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP2 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP3 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP4 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP5 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP6 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/06-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP7 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/07-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP8 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/08-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP9 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/09-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TAKfxz" group-title="Dark", T1|EP10 (LEG)
+http://cdn1.ntcdn.us/content/httpdelivery/dark/01leg/10-ALTO.mp4
 
 
 ######### baixe o aplicativo Listas IPTV - Novas Listas de Canais IPTV Grátis: https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro ######
