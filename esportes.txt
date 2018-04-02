@@ -1,15 +1,16 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Esportes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 31/03/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Esportes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 02/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
+https://www.youtube.com/watch?v=jCLa1hIbLPg
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 31/03/2018 
-http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 02/04/2018 
+https://www.youtube.com/watch?v=jCLa1hIbLPg
 
 
 
-################################################################################# Futebol Ao Vivo
+###################### Futebol Ao Vivo ###################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
 http://aovivo2.futeboltv.com:8081/live/2/playlist.m3u8
@@ -33,12 +34,6 @@ http://aovivo2.futeboltv.com:8081/live/13/playlist.m3u8
 http://aovivo2.futeboltv.com:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
-http://aovivo2.futeboltv.com:8081/live/16/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
-http://aovivo2.futeboltv.com:8081/live/17/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
 http://aovivo2.futeboltv.com:8081/live/18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
@@ -49,71 +44,67 @@ http://aovivo2.futeboltv.com:8081/live/20/playlist.m3u8
 
 #############ESPORTE#####################
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/6a0b4e60f5cbdb56078acd4beb387713.jpg" group-title="Esporte",COMBATE
-http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/7486b10b894d2c1a5268ee17ed5c6ee6_online.jpg" group-title="ESPORTE",NBA TV
 https://minhalista.live/channel/10691/jrsm144/redirect
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f6201d21873b75613e774ef3e34f95e3.jpg" group-title="SPORTV",SPORTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/f6201d21873b75613e774ef3e34f95e3.jpg" group-title="Esportes",SPORTV 2
 http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4e761fcfc980c06e28cd79d0049a7b25.jpg" group-title="SPORTV",SPORTV 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4e761fcfc980c06e28cd79d0049a7b25.jpg" group-title="Esportes",SPORTV 3
 http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e44d290741502235515e7d69612bcb6c.jpg" group-title="TV ABERTO",TVMS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e44d290741502235515e7d69612bcb6c.jpg" group-title="Esportes",TVMS
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/80674683a59ed6ef6276c8f49c046d39.jpg" group-title="FUTEBOL",Espn+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/80674683a59ed6ef6276c8f49c046d39.jpg" group-title="Esportes",Espn+
 http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/80674683a59ed6ef6276c8f49c046d39.jpg" group-title="FUTEBOL",Espn+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/80674683a59ed6ef6276c8f49c046d39.jpg" group-title="Esportes",Espn+
 http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1d57dfa8ffc20450e2eda068342ce46a.jpg" group-title="ESPORTE",FOX SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1d57dfa8ffc20450e2eda068342ce46a.jpg" group-title="Esportes",FOX SPORTS
 http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/892b8bf5070aba1395ed71e984e4a4e1.jpg" group-title="ESPORTE",Premiere 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/892b8bf5070aba1395ed71e984e4a4e1.jpg" group-title="Esportes",Premiere 3
 http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd8826a6ca0bbdbdbd7b61e8f0c91e55.jpg" group-title="SPORTV",SPORTV 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd8826a6ca0bbdbdbd7b61e8f0c91e55.jpg" group-title="Esportes",SPORTV 1
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd8826a6ca0bbdbdbd7b61e8f0c91e55.jpg" group-title="SPORTV",SPORTV 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/fd8826a6ca0bbdbdbd7b61e8f0c91e55.jpg" group-title="Esportes",SPORTV 1
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/535958ccb94ed6a20e16cb8ff9712556.jpg" group-title="FUTEBOL",Esporte Interativo
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/535958ccb94ed6a20e16cb8ff9712556.jpg" group-title="Esportes",Esporte Interativo
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ec6d013d7427f424cd523ce128d6cf1c.jpg" group-title="ESPORTE",Premiere 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ec6d013d7427f424cd523ce128d6cf1c.jpg" group-title="Esportes",Premiere 4
 http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c39bfb4753ca3216c6f0ad8acb633e2b.jpg" group-title="ESPORTE",SPORTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c39bfb4753ca3216c6f0ad8acb633e2b.jpg" group-title="Esportes",SPORTV 2
 
 EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/0f553f6f36e8bccd46905834e35914e3.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 4
 http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bdae74d6ac2c050dffcdeb5c29744ef7.jpg" group-title="FUTEBOL",Espn Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bdae74d6ac2c050dffcdeb5c29744ef7.jpg" group-title="Esportes",Espn Brasil
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e6b44704f7716db3eeb571c75a2fffae.jpg" group-title="Futebol Ao Vivo",Jogos Ao Vivo 5
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2e5d3fb6f910bba6b6febead465e4bad.jpg" group-title="ESPORTES HD",ESPN2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2e5d3fb6f910bba6b6febead465e4bad.jpg" group-title="Esportes",ESPN2 HD
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e1117343b41ea992dea06ca2dca63250.jpg" group-title="CANAIS",Sportv
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e1117343b41ea992dea06ca2dca63250.jpg" group-title="Esportes",Sportv
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c39bfb4753ca3216c6f0ad8acb633e2b.jpg" group-title="ESPORTE",SPORTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c39bfb4753ca3216c6f0ad8acb633e2b.jpg" group-title="Esportes",SPORTV 2
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1d57dfa8ffc20450e2eda068342ce46a.jpg" group-title="ESPORTE",FOX SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1d57dfa8ffc20450e2eda068342ce46a.jpg" group-title="Esportes",FOX SPORTS
 http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae1d01e2d738d30b5e9f9c2f61972847.jpg" group-title="CANAIS",Esporte Interativo HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/ae1d01e2d738d30b5e9f9c2f61972847.jpg" group-title="Esportes",Esporte Interativo HD
 https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3162682c29af2f526efaa6bd5a1cb592.jpg" group-title="ESPORTES HD",REAL MADRID TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/3162682c29af2f526efaa6bd5a1cb592.jpg" group-title="Esportes",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
