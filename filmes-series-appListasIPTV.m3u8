@@ -1,11 +1,226 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 29/03/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Filmes - APP Listas IPTV" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 03/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
+https://www.youtube.com/watch?v=jCLa1hIbLPg
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 29/03/2018 
-http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 03/04/2018 
+https://www.youtube.com/watch?v=jCLa1hIbLPg
+
+
+
+################## FILMES LANÇAMENTOS ########################
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", MAZE RUNNER 3: A CURA MORTAL LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", FALA SÉRIO MÃE!
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FALASERIEMAE-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", CONSPIRAÇÃO TERRORISTA 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTADUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", CONSPIRAÇÃO TERRORISTA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTALEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", PERDA TOTAL 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PERDATORALDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", PERDA TOTAL LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PERDATORALLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", BENJI 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BENJI2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", SOBRENATURAL 4: A ÚLTIMA CHAVE LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/INSIDIOUS4LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", CORRIDA MORTAL 4 LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DEATHRACE4-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", PADDINGTON 2 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PADDINGTON2-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", LEGO: SUPER-HEROIS - THE  FLASH LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LEGOTHEFLASHLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", ANIQUILAÇÃO
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ANIQUILACAODUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", BRAVEN LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BRAVEN18LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", UMA FLORESTA MUITO LOUCA 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FLORESTALOUCADUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", STAR WARS 8: OS ÚLTIMOS JEDI 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", STAR WARS 8: OS ÚLTIMOS JEDI LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", DÍVIDA PERIGOSA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEOUTSIDE2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", JUMANJI: BEM-VINDO A SELVA 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUMANJI2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", JUMANJI: BEM-VINDO A SELVA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUMANJI2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", EU TONYA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ITONYALEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", ME CHAME PELO SEU NOME 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MECHAMEPELOSEUNOMEDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", ME CHAME PELO SEU NOME LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CALLMEBYNAME2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", O REI DO SHOW LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/REIDANOITELEG2017-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", COM AMOR - VAN GOGH 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VANGOGHDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", COM AMOR - VAN GOGH LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VANGOGHLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", A ESTRELA DE BELEM
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BELEM18-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", VERÔNICA 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VERONICA2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018"group-title="2018", VERÔNICANICA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VERONICA2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", GIGANTE LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GIGANTE2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", LADY BIRD: A HORA DE VOAR LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", OS PARÇAS 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/OSPARCAS2018-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", A FORMA DA ÁGUA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FORMADAAGUALEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", A FORMA DA ÁGUA
+http://srv1.unitplay.net/stream/ts/399055-the-shape-of-water.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", JOGOS MORTAIS 8: JIGSAW 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JIGSAW2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", JOGOS MORTAIS 8: JIGSAW LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", O TOURO FERDINANDO LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FERDINANDOLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", ESPELHO LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", MUDO 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MUTEDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", MUDO LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MUTELEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", DOENTES DE AMOR 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BIGSICKDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", DOENTES DE AMOR LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BIGSICKLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", PEQUENA GRANDE VIDA 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PEQUENALIFEDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", PEQUENA GRANDE VIDA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PEQUENAGRANDEVIDA2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", EXTRAORDINARIO 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/EXTRAORDINARIODUB2018-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", EXTRAORDINARIO LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", THOR 3: RAGNAROK 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", THOR 3: RAGNAROK LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", TRÊS ANÚNCIOS PARA UM CRIME LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/TRESANUNCIOS2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", HACKER: TODO CRIME TEM UM INÍCIO
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HACKERDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", FULLMETAL ALCHEMIST 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FULLMETALDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", FULLMETAL ALCHEMIST LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FULLMETALLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", GOSTO SE DISCUTE 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", LOUCURAS EM FAMÍLIA
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LOUCURAS2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", ESPIÃO POR ACASO 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", O DESTINO DE UMA NAÇÃO LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", PAI EM DOSE DUPLA 2 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", AMERICAN SATAN LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", ASSASSINATO NO EXPRESSO DO ORIENTE LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", THE POST: A GUERRA SECRETA LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", O PARADOXO CLOVERFIELD 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", O PARADOXO CLOVERFIELD LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CLOVERFIELD2018LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", BATMAN: GOTHAM BY GASLIGHT 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BATMANBYGASLIGHTDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", BATMAN: GOTHAM BY GASLIGHT LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", PICA-PAU: O FILME 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PICAPAU2018DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", VOLDEMORT: A ORIGEM DO HERDEIRO LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", A MORTE TE DA PARABÉNS
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", A MORTE TE DA PARABÉNS LEG.
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo=""  group-title="Lançamentos 2018", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ojnJKv" group-title="Game Of Thrones" , T1|EP1
 http://cdn7.ntcdn.us/content/sobdemanda/netcine-bucket/got/01dub/01-ALTO.mp4
