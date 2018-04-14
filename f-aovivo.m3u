@@ -35,9 +35,6 @@ http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8
 http://aovivo.futeboltv.com:8081/live/9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/11/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
 http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
