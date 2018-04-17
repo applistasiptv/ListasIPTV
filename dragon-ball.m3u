@@ -1,22 +1,20 @@
 #EXTM3U
 
-####################################### INFORMAÇÕES ##########################################
+#################################### INFORMAÇÕES ########################################
 
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Dragon Ball - app Listas IPTV" pltv-description="Baixe nosso app, é grátis!, ÚLTIMA ATUALIZAÇÃO: 12/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Dragon Ball - app Listas IPTV" pltv-description="Baixe nosso app, é grátis!, ÚLTIMA ATUALIZAÇÃO: 17/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
-https://www.youtube.com/watch?v=jCLa1hIbLPg
+https://www.youtube.com/watch?v=_u6ebgN_Bls
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 12/04/2018 
-https://www.youtube.com/watch?v=jCLa1hIbLPg
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 17/04/2018 
+https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Veja isso
-https://www.youtube.com/watch?v=jCLa1hIbLPg
+https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 
-##############################################################################################
-####################################### Dragon Ball ##########################################
-##############################################################################################
+##################################################################################################################################### Dragon Ball   ########################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8rd7ywb" group-title="Dragon Ball", 01 - Dragon Ball O Segredo das Esferas do Dragão
 http://www.blogger.com/video-play.mp4?contentId=6f7390efbaf3a6bf&autoplay=true?appListasIPTV
