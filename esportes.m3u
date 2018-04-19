@@ -1,14 +1,17 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Esportes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 17/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Baixe o nosso app, clique em "SITE", ÚLTIMA ATUALIZAÇÃO: 19/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 17/04/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 19/04/2018 
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Veja isso
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Use no PlaylisTV
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 ###########################################################################################
@@ -30,17 +33,19 @@ http://apk222.futeboltv.com:8081/live/2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.espn.com.br/image/livre/3ba4ab87-6f9d-46b7-adfd-fe9491cc4350.png" group-title="Esportes", ESPN
 http://apk222.futeboltv.com:8081/live/16/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://cdn.espn.com.br/image/livre/3ba4ab87-6f9d-46b7-adfd-fe9491cc4350.png" group-title="Esportes", ESPN +
+http://apk222.futeboltv.com:8081/live/4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://cdn.espn.com.br/image/livre/3ba4ab87-6f9d-46b7-adfd-fe9491cc4350.png" group-title="Esportes", ESPN Brasil
 http://apk222.futeboltv.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/hp20rcdax/image/upload/f_auto,q_auto:eco/v1480695724/icons/njm1he85alkn9grugm9d.pnG" group-title="Esportes", Band Sports
-http://apk222.futeboltv.com:8081/live/2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.downloadatoz.com/download/icon2/f/d/6/79f42a9555b564687692aab17fb39b19.jpg" group-title="Esportes", Fox Sports
-http://apk222.futeboltv.com:8081/live/9/playlist.m3u8
+http://apk222.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.downloadatoz.com/download/icon2/f/d/6/79f42a9555b564687692aab17fb39b19.jpg" group-title="Esportes", Fox Sports 2
 http://apk222.futeboltv.com:8081/live/13/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg" group-title="Esportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
@@ -56,6 +61,31 @@ http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.png" group-title="Esportes", RedBull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+
+
+###################### Futebol Ao Vivo #####################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
 
 ######################################## ALTERNATIVOS ###################################
@@ -77,39 +107,3 @@ http://aovivo2.futeboltv.com:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/E/esporte-interativo-logo-877A2C8B6B-seeklogo.com.gif" group-title="Alternativos", Esporte Interativo HD
 https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-
-
-###################### Futebol Ao Vivo #####################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
-http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
