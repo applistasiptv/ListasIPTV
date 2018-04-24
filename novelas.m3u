@@ -1,38 +1,51 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Esportes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Novas Listas de Canais IPTV Grátis, ÚLTIMA ATUALIZAÇÃO: 01/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://tinyurl.com/yaese7m4" pltv-name="Animes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Baixe o nosso app, clique em "SITE", ÚLTIMA ATUALIZAÇÃO: 22/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 22/04/2018 
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Veja isso
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+###
+###################################################################################
+##################################################################################################################### NOVELAS #############################################
+###################################################################################
+###################################################################################
 
 
-############ CANAIS #############
+########### AVENIDA BRASIL ################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/340a3c3ad07ded81af77579c385e362a.jpg" group-title="Canais",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", Ep. 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1354829e1f85b7c321bcd5c7302f3974.jpg" group-title="Canais", SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", Ep. 02
+https://ph2dqq.oloadcdn.net/dl/l/NoCISBtxpXXo3MVx/EUilxeRZUPY/Avenida+Brasil+002.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/e4b217cd57d7255be263ca3d89515367.jpg" group-title="Canais", SBT SP [720p]
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", Ep. 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/b322c4b7f47bfe1f1a57e423bfbd0191.jpg" group-title="Canais", SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", Ep. 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/be34f68ef2d32ae66aac63c41a275a6e.jpg" group-title="Canais", SBT HD 2018
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", Ep. 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/149859cda635610a8c74b9029786284d.jpg" group-title="Canais", SBT - TV Difusora
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", Ep. 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/746485a4e12b8a0dd00228eb493dfbf6.jpg" group-title="Canais",RECORD
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/eff531fc437650fe7f76bbcdd9f69a36.jpg" group-title="Canais",RecordTV- TV Sucesso (GO)
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
-
-
-########### NOVELAS ################
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8cukpdn" group-title="Avenida Brasil", 01
+https://ph2dqq.oloadcdn.net/dl/l/I3WgGM2tGNpKGqu_/NsiUutTcS0A/Avenida+Brasil+001.mp4
 
 ########  TIETA  #########
 

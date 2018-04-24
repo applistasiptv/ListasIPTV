@@ -4,6 +4,12 @@
 
 #PLAYLISTV: pltv-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" pltv-name="Dragon Ball - app Listas IPTV" pltv-description="Baixe nosso app, é grátis!, ÚLTIMA ATUALIZAÇÃO: 17/04/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="bit.ly/appListasIPTV", Baixe nosso app
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", bit.ly/appListasIPTV
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
