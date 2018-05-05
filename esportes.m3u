@@ -1,6 +1,11 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://tinyurl.com/y9xuv6ov" pltv-name="Esportes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Baixe o nosso app, clique em "SITE", ÚLTIMA ATUALIZAÇÃO: 01/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+
+###########################################################################################
+######################################## INFORMAÇÕES ######################################
+###########################################################################################
+
+#PLAYLISTV: pltv-logo="https://tinyurl.com/y9xuv6ov" pltv-name="Esportes - Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-description="Baixe o nosso app, clique em "SITE", ÚLTIMA ATUALIZAÇÃO: 05/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV - Novas Listas de Canais IPTV Grátis" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="bit.ly/appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=_u6ebgN_Bls
@@ -17,7 +22,7 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV - Novas Listas de Canais IPTV Grátis
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 01/05/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 05/05/2018 
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", bit.ly/appListasIPTV
@@ -33,6 +38,9 @@ http://apk.goo.ac:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 2
 http://apk.goo.ac:8081/live/15/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Alternativos",Sportv 2 Hd
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/39.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sVfqmbg.png" group-title="Esportes", EI Maxx
 http://apk.goo.ac:8081/live/8/playlist.m3u8
@@ -114,3 +122,39 @@ http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f96
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/E/esporte-interativo-logo-877A2C8B6B-seeklogo.com.gif" group-title="Alternativos", Esporte Interativo HD
 https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-3Dni0IoqBVc/VQ34QChwY9I/AAAAAAAAWYs/LgSH4_cluJQ/s1600/premiere.jpg" group-title="Alternativos",Premiere Clubes
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/566.m3u8
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-3Dni0IoqBVc/VQ34QChwY9I/AAAAAAAAWYs/LgSH4_cluJQ/s1600/premiere.jpg" group-title="Alternativos",Premiere Clubes Hd
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/565.m3u8
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 2 
+http://switch02.golffan.us/044/myStream/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 2 hd
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/582.m3u8
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 3
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/580.m3u8
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 3 Hd
+http://switch02.golffan.us/043/myStream/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 4 
+http://switch02.golffan.us/042/myStream/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 4 Hd
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/577.m3u8
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 5
+http://switch02.golffan.us/041/myStream/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 5 Hd
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/575.m3u8
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 6
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/574.m3u8
+
+#EXTINF:0 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 6 Hd
+http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/5950.m3u8
