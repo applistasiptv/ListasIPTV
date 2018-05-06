@@ -29,9 +29,6 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Corinthians x Ceara", Corinthians x Ceara
-http://apk.goo.ac:8081/live/4/playlist.m3u8
-
 ###########################################################################################
 ############################################ ESPORTE ######################################
 ###########################################################################################
@@ -86,6 +83,9 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
 
 ###################### Futebol Ao Vivo #####################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Premiere
+http://apk.goo.ac:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Jogos Ao Vivo
 http://apk.goo.ac:8081/live/3/playlist.m3u8
