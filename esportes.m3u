@@ -29,36 +29,6 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 
-#######################################################################################################################################################################################################################################################################
-######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Barcelona x Real Madrid
-http://apk.goo.ac:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Cagliari x Roma
-http://apk.goo.ac:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Flamengo x Internacional
-http://apk.goo.ac:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Atletico-PR x Palmeiras
-http://apk.goo.ac:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Vitoria x Fluminense
-http://apk.goo.ac:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Cruzeiro x Botafogo
-http://apk.goo.ac:8081/live/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", ABC X Botafogo-PB
-http://apk.goo.ac:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19h - Sport x Bahia
-http://apk.goo.ac:8081/live/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19h - Gremio x Santos
-http://apk.goo.ac:8081/live/20/playlist.m3u8
-
 
 ###########################################################################################
 ############################################ ESPORTE ######################################
@@ -110,6 +80,36 @@ http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.png" group-title="Esportes", RedBull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#######################################################################################################################################################################################################################################################################
+######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/3/playlist.m3u8
 
 
 ######################################## ALTERNATIVOS ###################################

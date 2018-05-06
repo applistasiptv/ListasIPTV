@@ -23,29 +23,29 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 #######################################################################################################################################################################################################################################################################
 ######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Barcelona x Real Madrid
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+http://apk.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
 http://apk.goo.ac:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Cagliari x Roma
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Flamengo x Internacional
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
 http://apk.goo.ac:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Atletico-PR x Palmeiras
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Vitoria x Fluminense
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
 http://apk.goo.ac:8081/live/15/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Cruzeiro x Botafogo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
 http://apk.goo.ac:8081/live/2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", ABC X Botafogo-PB
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
 http://apk.goo.ac:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19h - Sport x Bahia
-http://apk.goo.ac:8081/live/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19h - Gremio x Santos
-http://apk.goo.ac:8081/live/20/playlist.m3u8
