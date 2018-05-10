@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#PLAYLISTV: pltv-logo="https://icon-icons.com/icons2/861/PNG/512/Soccer_icon-icons.com_67819.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em "SITE", ÚLTIMA ATUALIZAÇÃO: 09/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV: Novas listas iptv atualizadas 2018" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://icon-icons.com/icons2/861/PNG/512/Soccer_icon-icons.com_67819.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em "SITE", ÚLTIMA ATUALIZAÇÃO: 10/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV: Novas listas iptv atualizadas 2018" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="bit.ly/appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=_u6ebgN_Bls
@@ -17,32 +17,26 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Listas IPTV: Novas listas iptv atualizadas 2018
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 09/05/2018
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMAÇÕES DA LISTA", Atualizada 10/05/2018
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 #######################################################################################################################################################################################################################################################################
 ######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://apk.goo.ac:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://apk.goo.ac:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://apk.goo.ac:8081/live/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19:30h - Corinthians X Vitoria
 http://apk.goo.ac:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19:30h - Flamengo x Ponte Preta
+http://apk.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21:45h - CRB x Ceara
 http://apk.goo.ac:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://apk.goo.ac:8081/live/7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21:45h - Santos x Luverdense
+http://apk.goo.ac:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://apk.goo.ac:8081/live/2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21:45h - Ind. Medellin X Sol de America
+http://apk.goo.ac:8081/live/13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://apk.goo.ac:8081/live/3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21:45h - Nacional x Fluminense
+http://apk.goo.ac:8081/live/20/playlist.m3u8
