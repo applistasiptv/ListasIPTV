@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 
+#######################################################################################################################################################################################################################################################################
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/511CqYfqZvL.png", 14h - Convocação Seleção
 http://aaa.goo.ac:8081/live/19/playlist.m3u8
 
@@ -65,9 +67,6 @@ http://aaa.goo.ac:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Alternativos",Sportv 3
 http://aaa.goo.ac:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Alternativos",Sportv 2 Hd
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/39.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sVfqmbg.png" group-title="Esportes", EI Maxx
 http://aaa.goo.ac:8081/live/8/playlist.m3u8
@@ -125,27 +124,3 @@ http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f96
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/E/esporte-interativo-logo-877A2C8B6B-seeklogo.com.gif" group-title="Alternativos", Esporte Interativo HD
 https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-3Dni0IoqBVc/VQ34QChwY9I/AAAAAAAAWYs/LgSH4_cluJQ/s1600/premiere.jpg" group-title="Alternativos",Premiere Clubes
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/566.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-3Dni0IoqBVc/VQ34QChwY9I/AAAAAAAAWYs/LgSH4_cluJQ/s1600/premiere.jpg" group-title="Alternativos",Premiere Clubes Hd
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/565.m3u8
-
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 2 hd
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/582.m3u8
-
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 3
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/580.m3u8
-
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 4 Hd
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/577.m3u8
-
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 5 Hd
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/575.m3u8
-
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 6
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/574.m3u8
-
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/pfc/logo/pfc.png" group-title="Alternativos",Premiere 6 Hd
-http://server1.s3rv3r.club:25461/live/xvx4FGRQiT/ql6WoitVxA/5950.m3u8
