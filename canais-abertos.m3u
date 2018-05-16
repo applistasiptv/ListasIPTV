@@ -1,0 +1,54 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://maracajuemfoco.com.br/img/noticias/Maracaju-em-focofad36eece6dea5254e0b2d31e5558f89.jpg" pltv-name="TV Aberta - app Listas IPTV" pltv-description="Baixe o nosso app, clique em "SITE", ATUALIZADA EM: 16/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV: Novas listas iptv atualizadas 2018" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", bit.ly/appListasIPTV
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1121/PNG/512/1486147197-social-media-circled-network04_79460.png" group-title="DETALHES DA LISTA", http://bit.ly/canal-appListasIPTV
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Listas IPTV: Novas listas iptv atualizadas 2018
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 16/05/2018 
+https://www.youtube.com/watch?v=_u6ebgN_Bls
+
+
+####################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="TV Aberta", Globo SD
+http://aaa.goo.ac:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="TV Aberta", Globo DF
+http://stream01.enviandotorpedos.com/hls/redecanais-bobobrasilia.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="TV Aberta", Globo HD
+http://switch03-trwj4dm.stackpathdns.com/095/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y72g3rgs" group-title="TV Aberta", Band HD
+http://switch03-trwj4dm.stackpathdns.com/081/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8mcv4g6" group-title="TV Aberta", Record
+http://asdp.ddns.net:8000/live/adriano/adriano/420.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8mcv4g6" group-title="TV Aberta", Record SC HD
+https://ricmais.com.br/sc/streaming/show/ric_src.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8mcv4g6" group-title="TV Aberta", Record HD
+http://switch04-trwj4dm.stackpathdns.com/109/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/sbt-img" group-title="TV Aberta", SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/sbt-img" group-title="TV Aberta", SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/sbt-img" group-title="TV Aberta", SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
