@@ -26,13 +26,10 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="TV Aberta", Globo SD
 http://aaa.goo.ac:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="TV Aberta", Globo DF
-http://stream01.enviandotorpedos.com/hls/redecanais-bobobrasilia.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="TV Aberta", Globo HD
 http://switch03-trwj4dm.stackpathdns.com/095/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y72g3rgs" group-title="TV Aberta", Band HD
+#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2015/01/BandTV.png" group-title="TV Aberta", Band HD
 http://switch03-trwj4dm.stackpathdns.com/081/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8mcv4g6" group-title="TV Aberta", Record
@@ -44,11 +41,8 @@ https://ricmais.com.br/sc/streaming/show/ric_src.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8mcv4g6" group-title="TV Aberta", Record HD
 http://switch04-trwj4dm.stackpathdns.com/109/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/sbt-img" group-title="TV Aberta", SBT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="TV Aberta", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/sbt-img" group-title="TV Aberta", SBT GO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="TV Aberta", SBT GO HD
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/sbt-img" group-title="TV Aberta", SBT - TV Difusora (MA)
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
