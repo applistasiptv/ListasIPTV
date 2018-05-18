@@ -1,11 +1,11 @@
 ﻿#EXTM3U
 
-#PLAYLISTV: pltv-logo="https://icon-icons.com/icons2/861/PNG/512/Soccer_icon-icons.com_67819.png" pltv-name="La Casa de Papel - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 11/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV: Novas listas iptv atualizadas 2018" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+#PLAYLISTV: pltv-logo="https://tinyurl.com/y92s92yg" pltv-name="La Casa de Papel - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 18/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV: Novas listas iptv atualizadas 2018" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="INFORMACOES DA LISTA", bit.ly/appListasIPTV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", bit.ly/appListasIPTV
 https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
@@ -20,70 +20,70 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 ################################################################################################################
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 1
-https://www.blogger.com/video-play.mp4?contentId=493119be16ec0c3
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 1
+https://www.blogger.com/video-play.mp4?contentId=493119be16ec0c3&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 2
-https://www.blogger.com/video-play.mp4?contentId=af637567073d026f
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 2
+https://www.blogger.com/video-play.mp4?contentId=af637567073d026f&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 3
-https://www.blogger.com/video-play.mp4?contentId=db60e824145b73ba
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 3
+https://www.blogger.com/video-play.mp4?contentId=db60e824145b73ba&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 4
-https://www.blogger.com/video-play.mp4?contentId=91bb3402a67a3527
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 4
+https://www.blogger.com/video-play.mp4?contentId=91bb3402a67a3527&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 5
-https://www.blogger.com/video-play.mp4?contentId=62f71f3b893a865b
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 5
+https://www.blogger.com/video-play.mp4?contentId=62f71f3b893a865b&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 6
-https://www.blogger.com/video-play.mp4?contentId=a42fe33476d90969
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 6
+https://www.blogger.com/video-play.mp4?contentId=a42fe33476d90969&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 7
-https://www.blogger.com/video-play.mp4?contentId=e217d5ac1d337bac
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 7
+https://www.blogger.com/video-play.mp4?contentId=e217d5ac1d337bac&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 8
-https://www.blogger.com/video-play.mp4?contentId=410dd9c548901fc2
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 8
+https://www.blogger.com/video-play.mp4?contentId=410dd9c548901fc2&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 9
-https://www.blogger.com/video-play.mp4?contentId=2af103b0f5e2e9b4
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 9
+https://www.blogger.com/video-play.mp4?contentId=2af103b0f5e2e9b4&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 10
-https://www.blogger.com/video-play.mp4?contentId=1f98cbac839c523e
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 10
+https://www.blogger.com/video-play.mp4?contentId=1f98cbac839c523e&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 11
-https://www.blogger.com/video-play.mp4?contentId=268b4ed568d799a2
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 11
+https://www.blogger.com/video-play.mp4?contentId=268b4ed568d799a2&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 12
-https://www.blogger.com/video-play.mp4?contentId=e0293667701129f1
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 12
+https://www.blogger.com/video-play.mp4?contentId=e0293667701129f1&appListasIPTV
 
-#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 13
-https://www.blogger.com/video-play.mp4?contentId=a1963c2a4f60812b
+#EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="1° Temporada", Ep. 13
+https://www.blogger.com/video-play.mp4?contentId=a1963c2a4f60812b&appListasIPTV
 
 
  
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 1
-http://www.blogger.com/video-play.mp4?contentId=01e618776ce02dd9
+http://www.blogger.com/video-play.mp4?contentId=01e618776ce02dd9&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 2
-http://www.blogger.com/video-play.mp4?contentId=07fe6e6be15f8f69
+http://www.blogger.com/video-play.mp4?contentId=07fe6e6be15f8f69&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 3
-http://www.blogger.com/video-play.mp4?contentId=ac3dd7747a997a4f
+http://www.blogger.com/video-play.mp4?contentId=ac3dd7747a997a4f&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 4
-http://www.blogger.com/video-play.mp4?contentId=2e95b9ab4034703a
+http://www.blogger.com/video-play.mp4?contentId=2e95b9ab4034703a&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 5
-http://www.blogger.com/video-play.mp4?contentId=910ff69288bc1afc
+http://www.blogger.com/video-play.mp4?contentId=910ff69288bc1afc&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 6
-http://www.blogger.com/video-play.mp4?contentId=d25726d7177fe0ed
+http://www.blogger.com/video-play.mp4?contentId=d25726d7177fe0ed&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 7
-http://www.blogger.com/video-play.mp4?contentId=380023162c00c514
+http://www.blogger.com/video-play.mp4?contentId=380023162c00c514&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 8
-http://www.blogger.com/video-play.mp4?contentId=bc2b1efd33e580a5
+http://www.blogger.com/video-play.mp4?contentId=bc2b1efd33e580a5&appListasIPTV
 
 #EXTINF:-1 type="video" tvg-logo="https://tinyurl.com/y92s92yg" group-title="2° Temporada", Ep. 9
-http://www.blogger.com/video-play.mp4?contentId=d253bfd2f23d6cd5
+http://www.blogger.com/video-play.mp4?contentId=d253bfd2f23d6cd5&appListasIPTV
