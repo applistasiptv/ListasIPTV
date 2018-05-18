@@ -1,6 +1,12 @@
 #EXTM3U
 
+
+####################################################################################################################################################
+
+
 #PLAYLISTV: pltv-logo="http://maracajuemfoco.com.br/img/noticias/Maracaju-em-focofad36eece6dea5254e0b2d31e5558f89.jpg" pltv-name="TV Aberta - app Listas IPTV" pltv-description="Baixe o nosso app, clique em "SITE", ATUALIZADA EM: 18/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV: Novas listas iptv atualizadas 2018" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
+
+####################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
 https://www.youtube.com/watch?v=_u6ebgN_Bls
