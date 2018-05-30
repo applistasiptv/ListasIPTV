@@ -4,49 +4,30 @@
 ######################################## INFORMAÇÕES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://tinyurl.com/y9xuv6ov" pltv-name="Esportes - Listas IPTV: Novas listas iptv atualizadas 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 20/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV: Novas listas iptv atualizadas 2018" pltv-site="https://play.google.com/store/apps/details?id=com.alissonrafael.listasiptvpro"
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
-https://www.youtube.com/watch?v=_u6ebgN_Bls
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", bit.ly/appListasIPTV
-https://www.youtube.com/watch?v=_u6ebgN_Bls
-
-#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
-https://www.youtube.com/watch?v=_u6ebgN_Bls
-
-#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1121/PNG/512/1486147197-social-media-circled-network04_79460.png" group-title="DETALHES DA LISTA", http://bit.ly/canal-appListasIPTV
-https://www.youtube.com/watch?v=_u6ebgN_Bls
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Listas IPTV: Novas listas iptv atualizadas 2018
-https://www.youtube.com/watch?v=_u6ebgN_Bls
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 20/05/2018 
-https://www.youtube.com/watch?v=_u6ebgN_Bls
 
 #######################################################################################################################################################################################################################################################################
 ######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://aaa.goo.ac:8081/live/19/playlist.m3u8
+http://apk.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://aaa.goo.ac:8081/live/2/playlist.m3u8
+http://apk.goo.ac:8081/live/2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://aaa.goo.ac:8081/live/8/playlist.m3u8
+http://apk.goo.ac:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://aaa.goo.ac:8081/live/15/playlist.m3u8
+http://apk.goo.ac:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://aaa.goo.ac:8081/live/20/playlist.m3u8
+http://apk.goo.ac:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://aaa.goo.ac:8081/live/7/playlist.m3u8
+http://apk.goo.ac:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", Futebol ao vivo
-http://aaa.goo.ac:8081/live/13/playlist.m3u8
+http://apk.goo.ac:8081/live/13/playlist.m3u8
 
 ###########################################################################################
 ############################################ ESPORTE ######################################
@@ -54,37 +35,37 @@ http://aaa.goo.ac:8081/live/13/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Alternativos",Sportv
-http://aaa.goo.ac:8081/live/20/playlist.m3u8
+http://apk.goo.ac:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Alternativos",Sportv 2
-http://aaa.goo.ac:8081/live/15/playlist.m3u8
+http://apk.goo.ac:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Alternativos",Sportv 3
-http://aaa.goo.ac:8081/live/7/playlist.m3u8
+http://apk.goo.ac:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sVfqmbg.png" group-title="Esportes", EI Maxx
-http://aaa.goo.ac:8081/live/8/playlist.m3u8
+http://apk.goo.ac:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sVfqmbg.png" group-title="Esportes", EI Maxx 2
-http://aaa.goo.ac:8081/live/2/playlist.m3u8
+http://apk.goo.ac:8081/live/2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.espn.com.br/image/livre/3ba4ab87-6f9d-46b7-adfd-fe9491cc4350.png" group-title="Esportes", ESPN
-http://aaa.goo.ac:8081/live/16/playlist.m3u8
+http://apk.goo.ac:8081/live/16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.espn.com.br/image/livre/3ba4ab87-6f9d-46b7-adfd-fe9491cc4350.png" group-title="Esportes", ESPN +
-http://aaa.goo.ac:8081/live/4/playlist.m3u8
+http://apk.goo.ac:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.espn.com.br/image/livre/3ba4ab87-6f9d-46b7-adfd-fe9491cc4350.png" group-title="Esportes", ESPN Brasil
-http://aaa.goo.ac:8081/live/19/playlist.m3u8
+http://apk.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.downloadatoz.com/download/icon2/f/d/6/79f42a9555b564687692aab17fb39b19.jpg" group-title="Esportes", Fox Sports
-http://aaa.goo.ac:8081/live/3/playlist.m3u8
+http://apk.goo.ac:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.downloadatoz.com/download/icon2/f/d/6/79f42a9555b564687692aab17fb39b19.jpg" group-title="Esportes", Fox Sports 2
-http://aaa.goo.ac:8081/live/13/playlist.m3u8
+http://apk.goo.ac:8081/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.x-combat.com.br/upload/1423854823.png" group-title="Esportes", Band Sports
-http://aaa.goo.ac:8081/live/9/playlist.m3u8
+http://apk.goo.ac:8081/live/9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg" group-title="Esportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
