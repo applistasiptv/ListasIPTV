@@ -28,9 +28,6 @@ https://www.youtube.com/watch?v=_u6ebgN_Bls
 ######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 11h - BRA X CRO
-http://apk.goo.ac:8081/live/20/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16h - ESP X SUI
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
