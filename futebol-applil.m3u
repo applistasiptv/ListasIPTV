@@ -7,13 +7,13 @@
 #PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 09/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
-http://bit.ly/linkmudou
+https://youtu.be/owBWKjmFMGY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", http://bit.ly/baixar-applil
 https://youtu.be/owBWKjmFMGY
 
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
-http://bit.ly/linkmudou
+https://youtu.be/owBWKjmFMGY
 
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1121/PNG/512/1486147197-social-media-circled-network04_79460.png" group-title="DETALHES DA LISTA", http://bit.ly/canal-appListasIPTV
 https://youtu.be/owBWKjmFMGY
@@ -22,26 +22,65 @@ https://youtu.be/owBWKjmFMGY
 https://youtu.be/owBWKjmFMGY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 09/06/2018 
-http://bit.ly/linkmudou
+https://youtu.be/owBWKjmFMGY
 
 
 #######################################################################################################################################################################################################################################################################
 ######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 12:30h - HUN X AUS
-http://bit.ly/linkmudou
+http://apk22.goo.ac:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 14h - SUE X PER
-http://bit.ly/linkmudou
+http://apk22.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 15h - ESP X TUN
-http://bit.ly/linkmudou
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16h - APR X SAO
-http://bit.ly/linkmudou
+http://apk22.goo.ac:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16h - FRA X EUA
-http://bit.ly/linkmudou
+http://apk22.goo.ac:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16h - NAU X REM
-http://bit.ly/linkmudou
+http://apk22.goo.ac:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16:30h - CSA X CRB
+http://apk22.goo.ac:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16:30h - CRI X BOA
+http://apk22.goo.ac:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16:30h - GUA X VIL
+http://apk22.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16:30h - SAO X FOR
+http://apk22.goo.ac:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 16:30h - SAM X OES
+http://apk22.goo.ac:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 18h - COL X NEW
+http://apk22.goo.ac:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 18:30h - JUA X BOT
+http://apk22.goo.ac:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19h - CHA X CRU
+http://apk22.goo.ac:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19h - VAS X SPO
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19h - AGO X FIG
+http://apk22.goo.ac:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19:30h - UFC
+http://apk22.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21h - BRA X PON
+http://apk22.goo.ac:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21h - COR X VIT
+http://apk22.goo.ac:8081/live/4/playlist.m3u8
