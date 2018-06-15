@@ -7,24 +7,200 @@
 #PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 15/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
-https://youtu.be/owBWKjmFMGY
+https://youtu.be/A-diHddeicY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", http://bit.ly/baixar-applil
-https://youtu.be/owBWKjmFMGY
+https://youtu.be/A-diHddeicY
 
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
-https://youtu.be/owBWKjmFMGY
+https://youtu.be/A-diHddeicY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
-https://youtu.be/owBWKjmFMGY
+https://youtu.be/A-diHddeicY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 15/06/2018 
-https://youtu.be/owBWKjmFMGY
+https://youtu.be/A-diHddeicY
 
 
-#######################################################################################################################################################################################################################################################################
-######################################################## Futebol Ao Vivo ####################################################### ###################################################################################################################################
+###########################################################################################
+########################################   FUTEBOL   ######################################
+###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21:00h - GUA X SAO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 09h - EGI X URU
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 12h - MAR X IRA
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 15h - POR X ESP
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19:15h - FOR X BRA
 http://apk22.goo.ac:8081/live/15/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 20:30h - BOA X AVA
+http://apk22.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 21:30h - CRB X PON
+http://apk22.goo.ac:8081/live/4/playlist.m3u8
+
+
+###########################################################################################
+######################################## Esportes SD ######################################
+###########################################################################################
+
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes SD",SPORTV
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/232.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes SD",ESPN BRASIL
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/301.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes SD",FOX SPORTS
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/197.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Esportes SD",ESPN
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/300.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Esportes SD",SPORTV 2
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/234.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/6ju0FK?SporTV-3.png?" group-title="Esportes SD",SPORTV 3
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/233.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes SD",PREMIERE
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/246.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="Esportes SD",COMBATE
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/314.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes SD",FOX SPORTS 2
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/196.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="Esportes SD",BAND SPORTS
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/326.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes SD",ESPORTE INTERATIVO
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/296.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo 2.igor" tvg-logo="https://goo.gl/vAiaCs?Esporte_Interativo_2.png?" group-title="Esportes SD",ESPORTE INTERATIVO 2
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/298.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo BR.igor" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="Esportes SD",ESPORTE INTERATIVO BR
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/299.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN+.igor"  tvg-logo="http://goo.gl/HBo8jM?ESPN+.png?" group-title="Esportes SD",ESPN+
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/210.m3u8?|User-Agent=iPhone
+
+
+###########################################################################################
+####################################### Premieres SD ######################################
+###########################################################################################
+
+
+#EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 1
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/254.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 2
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/253.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 3
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/252.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 4
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/251.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 5
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/250.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 6
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/249.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 7
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/198.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 8.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 8
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/248.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 9.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 9
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/nRMbcuiW4Rxu3k0/247.m3u8?|User-Agent=iPhone
+
+
+###########################################################################################
+######################################## Esportes HD ######################################
+###########################################################################################
+
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes HD",SPORTV
+http://paraisotv.ddns.net/c008/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes HD",ESPN BRASIL
+http://paraisotv.ddns.net/c002/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes HD",FOX SPORTS
+http://paraisotv.ddns.net/036/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Esportes HD",ESPN
+http://paraisotv.ddns.net/c001/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Esportes HD",SPORTV 2
+http://paraisotv.ddns.net/c007/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/6ju0FK?SporTV-3.png?" group-title="Esportes HD",SPORTV 3 
+http://paraisotv.ddns.net/c016/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes HD",PREMIERE
+http://paraisotv.ddns.net/097/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="Esportes HD",COMBATE
+http://paraisotv.ddns.net/016/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes HD",FOX SPORTS 2
+http://paraisotv.ddns.net/c009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="Esportes HD",BAND SPORTS
+http://paraisotv.ddns.net/c015/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes HD",ESPORTE INTERATIVO 
+http://paraisotv.ddns.net/c004/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E Interativo 2.igor" tvg-logo="https://goo.gl/vAiaCs?" group-title="Esportes HD",ESPORTE INTERATIVO 2
+http://paraisotv.ddns.net/c005/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E Interativo BR.igor" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="Esportes HD",ESPORTE INTERATIVO BR
+http://paraisotv.ddns.net/048/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN+.igor"  tvg-logo="http://goo.gl/HBo8jM?ESPN+.png?" group-title="Esportes HD",ESPN+
+http://paraisotv.ddns.net/c003/myStream/playlist.m3u8
+
+
+
+
+###########################################################################################
+####################################### Premieres HD ######################################
+###########################################################################################
+
+
+#EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 1
+http://paraisotv.ddns.net/097/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 2
+http://paraisotv.ddns.net/099/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 3
+http://paraisotv.ddns.net/100/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 4
+http://paraisotv.ddns.net/110/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 5
+http://paraisotv.ddns.net/044/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 6
+http://paraisotv.ddns.net/042/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 7
+http://paraisotv.ddns.net/043/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 8.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 8
+http://paraisotv.ddns.net/041/myStream/playlist.m3u8
