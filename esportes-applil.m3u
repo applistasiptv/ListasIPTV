@@ -26,14 +26,6 @@ https://youtu.be/A-diHddeicY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 09h - EGI X URU
-http://apk22.goo.ac:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 12h - MAR X IRA
-http://apk22.goo.ac:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 15h - POR X ESP
-http://apk22.goo.ac:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol - AO VIVO", 19:15h - FOR X BRA
 http://apk22.goo.ac:8081/live/15/playlist.m3u8
