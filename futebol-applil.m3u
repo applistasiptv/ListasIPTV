@@ -33,32 +33,14 @@ https://youtu.be/A-diHddeicY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 7h - FRANCA X AUSTRALIA
-http://apk22.goo.ac:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 10h - ARGENTINA X ISLANDIA
-http://apk22.goo.ac:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 13h - PERU X DINAMARCA
-http://apk22.goo.ac:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 16h - CROACIA X NIGERIA
-http://apk22.goo.ac:8081/live/20/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 18h - BOT X SAL
 http://apk22.goo.ac:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 18h - BRA X BSP
-http://apk22.goo.ac:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 18h - VIL X AGO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 18:30h - VIL X AGO
 http://apk22.goo.ac:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19h - OES X CRI
 http://apk22.goo.ac:8081/live/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:30h - IMP X MOT
-http://apk22.goo.ac:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20h - ABC X GLO
 http://apk22.goo.ac:8081/live/8/playlist.m3u8
