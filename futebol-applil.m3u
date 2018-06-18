@@ -4,12 +4,12 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 17/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 18/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw", Baixe nosso app
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw", http://bit.ly/baixar-applil
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="http://bit.ly/baixar-applil", 
 https://youtu.be/A-diHddeicY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Baixe nosso app
@@ -24,7 +24,7 @@ https://youtu.be/A-diHddeicY
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Atualizada 17/06/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Atualizada 18/06/2018 
 https://youtu.be/A-diHddeicY
 
 
@@ -33,8 +33,20 @@ https://youtu.be/A-diHddeicY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - BRASIL X SUICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 09h - SUECIA X COREIA DO SUL
 http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 12h - BELGICA X PANAMA
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - TUNISIA X INGLATERRA
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19h - REMO X AMERICA/AC
+http://apk22.goo.ac:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:15h - SANTA CRUZ X NAUTICO
+http://apk22.goo.ac:8081/live/8/playlist.m3u8
 
 
 ###########################################################################################
