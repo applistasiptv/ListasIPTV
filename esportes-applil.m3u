@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 19/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 20/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
 https://youtu.be/A-diHddeicY
@@ -24,7 +24,7 @@ https://youtu.be/A-diHddeicY
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 19/06/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 20/06/2018 
 https://youtu.be/A-diHddeicY
 
 
@@ -34,23 +34,14 @@ https://youtu.be/A-diHddeicY
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 09h - COLOMBIA X JAPÃO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 09h - PORTUGAL X MARROCOS
 http://apk22.goo.ac:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 12h - POLONIA X SENEGAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 12h - URUGUAI X ARABIA SAUDITA
 http://apk22.goo.ac:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - RUSSIA X EGITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - URUGUAI X ARABIA SAUDITA
 http://apk22.goo.ac:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:15h - PONTE PRETA X CSA
-http://apk22.goo.ac:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:30h - AVAI X GUARANI
-http://apk22.goo.ac:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:45h - SAMPAIO CORREIA X ABC
-http://apk22.goo.ac:8081/live/8/playlist.m3u8
 
 
 
