@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 20/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 21/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
 https://youtu.be/A-diHddeicY
@@ -24,7 +24,7 @@ https://youtu.be/A-diHddeicY
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 20/06/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 21/06/2018 
 https://youtu.be/A-diHddeicY
 
 
@@ -33,15 +33,29 @@ https://youtu.be/A-diHddeicY
 ###########################################################################################
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 09h - PORTUGAL X MARROCOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 09h - DINAMARCA X AUSTRALIA
 http://apk22.goo.ac:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 12h - URUGUAI X ARABIA SAUDITA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 12h - FRANCA X PERU
 http://apk22.goo.ac:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - URUGUAI X ARABIA SAUDITA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - ARGENTINA X CROACIA
 http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:15h - BRASIL DE PELOTAS X CRICIUMA
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:30h - GOIAS X JUVENTUDE
+http://apk22.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:45 Hrs - CEARA X BAHIA
+http://apk22.goo.ac:8081/live/8/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol na Globo", Globo
+http://apk.goo.ac:8081/live/17/playlist.m3u8
 
 
 
@@ -95,85 +109,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.png" group-title="Esportes", RedBull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
-
-###########################################################################################
-######################################## Esportes SD ######################################
-###########################################################################################
-
-
-#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes SD",SPORTV
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3914.ts
-
-#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes SD",ESPN BRASIL
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4131.ts
-
-#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes SD",FOX SPORTS
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4116.ts
-
-#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Esportes SD",ESPN
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4132.ts
-
-#EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Esportes SD",SPORTV 2
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3913.ts
-
-#EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/6ju0FK?SporTV-3.png?" group-title="Esportes SD",SPORTV 3
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3911.ts
-
-#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes SD",PREMIERE
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4020.ts
-
-#EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="Esportes SD",COMBATE
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7632.ts
-
-#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes SD",FOX SPORTS 2
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4115.ts
-
-#EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="Esportes SD",BAND SPORTS
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4179.ts
-
-#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes SD",ESPORTE INTERATIVO
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4127.ts
-
-#EXTINF:-1 tvg-id="E Interativo 2.igor" tvg-logo="https://goo.gl/vAiaCs?Esporte_Interativo_2.png?" group-title="Esportes SD",ESPORTE INTERATIVO 2
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4136.ts
-
-#EXTINF:-1 tvg-id="E Interativo BR.igor" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="Esportes SD",ESPORTE INTERATIVO BR
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4134.ts
-
-#EXTINF:-1 tvg-id="ESPN+.igor"  tvg-logo="http://goo.gl/HBo8jM?ESPN+.png?" group-title="Esportes SD",ESPN+
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/5620.ts
-
-
-###########################################################################################
-####################################### Premieres SD ######################################
-###########################################################################################
-
-#EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 1
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4616.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 2
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4032.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 3
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4031.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 4
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4029.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 5
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4027.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 6
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4025.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 7
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4614.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 8.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 8
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4022.ts?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="PREMIERE 9.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres SD",PREMIERE 9
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4021.ts?|User-Agent=iPhone
 
 
 ###########################################################################################
