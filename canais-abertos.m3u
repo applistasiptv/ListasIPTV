@@ -4,9 +4,13 @@
 ####################################################################################################################################################
 
 
-#PLAYLISTV: pltv-logo="http://maracajuemfoco.com.br/img/noticias/Maracaju-em-focofad36eece6dea5254e0b2d31e5558f89.jpg" pltv-name="TV Aberta - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 18/05/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="http://maracajuemfoco.com.br/img/noticias/Maracaju-em-focofad36eece6dea5254e0b2d31e5558f89.jpg" pltv-name="TV Aberta - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 24/06/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
-####################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
+https://youtu.be/A-diHddeicY
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="http://bit.ly/baixar-applil", 
+https://youtu.be/A-diHddeicY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
 https://youtu.be/A-diHddeicY
@@ -17,26 +21,21 @@ https://youtu.be/A-diHddeicY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1121/PNG/512/1486147197-social-media-circled-network04_79460.png" group-title="DETALHES DA LISTA", http://bit.ly/canal-appListasIPTV
-https://youtu.be/A-diHddeicY
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 18/05/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 24/06/2018 
 https://youtu.be/A-diHddeicY
 
-
-####################################################################################################################################################
+###########################################################################################
+########################################   CANAIS   #######################################
+###########################################################################################
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="TV Aberta", Globo SD
-http://aaa.goo.ac:8081/live/17/playlist.m3u8
+http://apk.goo.ac:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="TV Aberta", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/643873904751153152/jhYDRylU_400x400.png" group-title="TV Aberta", TV Jornal - PE
-http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yawgl7a3" group-title="TV Aberta", Rede TV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
