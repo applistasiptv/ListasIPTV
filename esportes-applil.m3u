@@ -12,19 +12,19 @@ https://youtu.be/A-diHddeicY
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="http://bit.ly/baixar-applil", 
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Baixe nosso app
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Baixe nosso app
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", http://bit.ly/baixar-applil
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", http://bit.ly/baixar-applil
 https://youtu.be/A-diHddeicY
 
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
 https://youtu.be/A-diHddeicY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/X1Hd8MswIHstLOF9EYHScVr-qm2W7zB8IM2a52-Pjh58bkdU9k6uVUs9l_jp5IBzEA=w300" group-title="DETALHES DA LISTA", Atualizada 24/06/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Atualizada 25/06/2018 
 https://youtu.be/A-diHddeicY
 
 
@@ -33,19 +33,22 @@ https://youtu.be/A-diHddeicY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 09h - INGLATERRA X PANAMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 11h - URUGUAI X RUSSIA
 http://apk.goo.bo:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 12h - JAPAO X SENEGAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 11h - ARABIA SAUDITA X EGITO
+http://apk.goo.bo:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - ESPANHA X MARROCOS
+http://apk.goo.bo:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - IRA X PORTUGAL
 http://apk.goo.bo:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - POLONIA X COLOMBIA
-http://apk.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 18h - GLOBO X REMO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:15h - NAUTICO X BOTAFOGO
 http://apk.goo.bo:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20h - ATLETICO/AC X SANTA CRUZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:15h - CAMPINENSE X BRASILIENSE	
 http://apk.goo.bo:8081/live/8/playlist.m3u8
 
 
