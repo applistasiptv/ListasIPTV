@@ -33,12 +33,6 @@ https://youtu.be/A-diHddeicY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 11h - ESPANHA X RUSSIA
-http://apk.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - CROACIA X DINAMARCA
-http://apk.goo.bo:8081/live/20/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 17:30h - TORONTO X NEW YORK
 http://apk.goo.bo:8081/live/16/playlist.m3u8
 
