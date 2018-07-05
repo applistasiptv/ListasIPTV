@@ -4,7 +4,8 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 04/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 05/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -12,19 +13,10 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="http://bit.ly/baixar-applil", 
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Baixe nosso app
+#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", http://bit.ly/baixar-applil
-https://www.youtube.com/watch?v=owBWKjmFMGY
-
-#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="DETALHES DA LISTA", http://bit.ly/fb-appListasIPTV
-https://www.youtube.com/watch?v=owBWKjmFMGY
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Listas IPTV Lite: Lista iptv gratis e atualizada
-https://www.youtube.com/watch?v=owBWKjmFMGY
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="DETALHES DA LISTA", Atualizada 04/07/2018 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Atualizada 05/07/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -34,27 +26,17 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 18h - CORITIBA X PAYSANDU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 18h - OESTE X GUARANI
 http://apk.goo.bo:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20h - CRUZEIRO X CORINTHIANS
-http://apk.goo.bo:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20h - BRASIL DE PELOTAS X CSA
+http://apk.goo.bo:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20:30h - CRB X SAO BENTO
-http://apk.goo.bo:8081/live/16/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20:30h - AVAI X GOIAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20:30h - VILA NOVA X LONDRINA
 http://apk.goo.bo:8081/live/7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20:30h - ATLETICO/GO X BOA ESPORTE
-http://apk.goo.bo:8081/live/16/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:45h - SAMPAIO CORREIA X BAHIA
-http://apk.goo.bo:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:45h - PALMEIRAS X IND. MEDELLIN
-http://apk.goo.bo:8081/live/16/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:30h - CRICIUMA X FIGUEIRENSE
+http://apk.goo.bo:8081/live/2/playlist.m3u8
 
 
 ###########################################################################################
