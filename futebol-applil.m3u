@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 06/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 07/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Atualizada 06/07/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Atualizada 07/07/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -25,11 +25,11 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 11h - URUGUAI X FRANÇA
-http://apk.goo.bo:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 11h - SUECIA X INGLATERRA
+http://apk.goo.bo:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/107/PNG/512/brazil_18295.png" group-title="Jogos de Hoje", 15h - BRASIL X BELGICA
-http://apk.goo.bo:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15h - RUSSIA X CROACIA
+http://apk.goo.bo:8081/live/17/playlist.m3u8
 
 
 ###########################################################################################
