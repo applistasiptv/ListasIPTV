@@ -24,21 +24,6 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15:15 Hrs - INTER DE MILAO X ZENIT
-http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 16:30 Hrs - CORITIBA X SAO BENTO
-http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 16:30 Hrs - JUVENTUDE X CRB
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 16:30 Hrs - ATLANTA UNITED X DC UNITED
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 17:00 Hrs - NAUTICO X JUAZEIRENSE
-http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - BOTAFOGO/PB X SANTA CRUZ
 http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
 
