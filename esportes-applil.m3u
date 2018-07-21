@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 20/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 21/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Atualizada 20/07/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Atualizada 21/07/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -23,18 +23,35 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 13:00h - BESIKTAS X KRASNODAR
-http://aovivo.goo.bo:8081/live/15/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 15:15 Hrs - INTER DE MILAO X ZENIT
+http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:15h - CRICIUMA X LONDRINA
-http://aovivo.goo.bo:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 16:30 Hrs - CORITIBA X SAO BENTO
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 20:30h - SAMPAIO CORREIA X GOIAS
-http://aovivo.goo.bo:8081/live/8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 16:30 Hrs - JUVENTUDE X CRB
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:30h - CSA X FORTALEZA
-http://aovivo.goo.bo:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 16:30 Hrs - ATLANTA UNITED X DC UNITED
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 17:00 Hrs - NAUTICO X JUAZEIRENSE
+http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - BOTAFOGO/PB X SANTA CRUZ
+http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - FLAMENGO X BOTAFOGO
+http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - BOA ESPORTE X PONTE PRETA
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - OESTE X PAYSANDU
+http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:00 Hrs - SAO PAULO X CORINTHIANS
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
 ###########################################################################################
 ############################################ ESPORTE ######################################
@@ -42,10 +59,22 @@ http://aovivo.goo.bo:8081/live/20/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv
-http://aovivo.goo.bo:8081/live/20/playlist.m3u8
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 2
-http://aovivo.goo.bo:8081/live/15/playlist.m3u8
+http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.torcedores.com/content/uploads/2015/03/fox-sports.png" group-title="Esportes", Fox Sports
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN
+http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN Brasil
+http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yboel5eq" group-title="Esportes", Esporte Interativo
+http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg" group-title="Esportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
