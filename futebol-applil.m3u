@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/eFg5QjF.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 21/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
+#PLAYLISTV: pltv-logo="https://tinyurl.com/yafcnnxx" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 22/07/2018" pltv-cover="https://i.ytimg.com/vi/jCLa1hIbLPg/maxresdefault.jpg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="https://play.google.com/store/apps/details?id=com.applistasiptv.listasiptvgratis"
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Baixe nosso app", Baixe nosso app
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Atualizada 21/07/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/crhkx3f3NifijUPjOgxi-o3NtWRm8Nd26oUQ3IOJJqJGwqeAiLNEJmVnPBzrQk0ugkw" group-title="Atualizada 22/07/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -24,17 +24,32 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - BOTAFOGO/PB X SANTA CRUZ
-http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafcnnxx" group-title="Jogos de Hoje", 16:00h - VASCO X GREMIO
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - FLAMENGO X BOTAFOGO
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafcnnxx" group-title="Jogos de Hoje", 16:00h - PALMEIRAS X ATLETICO/MG
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafcnnxx" group-title="Jogos de Hoje", 16:00h - SPORT X FLUMINENSE
 http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - BOA ESPORTE X PONTE PRETA
-http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 19:00 Hrs - OESTE X PAYSANDU
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafcnnxx" group-title="Jogos de Hoje", 16:00h - PARANA X AMERICA/MG
 http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Jogos de Hoje", 21:00 Hrs - SAO PAULO X CORINTHIANS
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafcnnxx" group-title="Jogos de Hoje", 16:00h - BAHIA X VITORIA
+http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7volu8q" group-title="Jogos de Hoje", 17:00h - LIVERPOOL X BORUSSIA DORTMUND
+http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafcnnxx" group-title="Jogos de Hoje", 19:00h - CHAPECOENSE X SANTOS
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafcnnxx" group-title="Jogos de Hoje", 19:00h - CRUZEIRO X ATLETICO/PR
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybjhshe9" group-title="Jogos de Hoje", 19:00h - CONFIANCA X REMO
+http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y74embru" group-title="Jogos de Hoje", 20:00h - SANTOS LAGUNA X LOBOS DE LA BUAP
+http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
