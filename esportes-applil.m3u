@@ -27,14 +27,70 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19:15h - AVAI X CSA
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 08:30h - ARSENAL X PSG
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 10h - LEICESTER X UDINESE
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 14h - BENFICA X JUVENTUS
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 15h - CHELSEA X INTER DE MILAO
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 15:30h - SANTA CRUZ X CONFIANCA
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - CEARA X FLUMINENSE
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - SAO BENTO X ATLETICO/GO
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - GOIAS X OESTE
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - CRB X LONDRINA
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - GUARANI X BRASIL DE PELOTAS
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - JUVENTUDE X FORTALEZA
 http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 20h - GLOBO X NAUTICO
-http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 18h - MANCHESTER UNITED X LIVERPOOL
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 21:45h - PAYSANDU X FIGUEIRENSE
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - CRICIUMA X VILA NOVA
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - CORITIBA X PONTE PRETA
 http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 20h - TORONTO FC X CHICAGO FIRE
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 20h - BAYERN DE MUNIQUE X MANCHESTER CITY
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 21h - BOA ESPORTE X SAMPAIO CORREIA
+http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 21:30h - SPORTING KANSAS X DALLAS FC
+http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 00h - BARCELONA X TOTTENHAM
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+
+###########################################################################################
+############################################ UFC ##########################################
+###########################################################################################
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7y65ed5" group-title="21h - UFC", 21h - UFC
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
 
 ###########################################################################################
