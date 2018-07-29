@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://tinyurl.com/y8uzd6go" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 28/07/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://tinyurl.com/y8uzd6go" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 29/07/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 28/07/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 29/07/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -26,45 +26,34 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 14h - BENFICA X JUVENTUS
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 11h - VASCO X CORINTHIANS
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 15:30h - SANTA CRUZ X CONFIANCA
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 11h - PALMEIRAS X PARANA
 http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - CEARA X FLUMINENSE
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - FLAMENGO X SPORT
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - GOIAS X OESTE
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - CRUZEIRO X SAO PAULO
+http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - INTERNACIONAL X BOTAFOGO
 http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - CRB X LONDRINA
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - ATLETICO/PR X VITORIA
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - SANTOS X AMERICA/MG
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - CHAPECOENSE X GREMIO
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - REMO X ABC
+http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 22:30h - LOS ANGELES GALAXY X ORLANDO CITY
 http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30h - JUVENTUDE X FORTALEZA
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 18h - MANCHESTER UNITED X LIVERPOOL
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - CRICIUMA X VILA NOVA
-http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - CORITIBA X PONTE PRETA
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 20h - TORONTO FC X CHICAGO FIRE
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 20h - BAYERN DE MUNIQUE X MANCHESTER CITY
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 21h - BOA ESPORTE X SAMPAIO CORREIA
-http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 21:30h - SPORTING KANSAS X DALLAS FC
-http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 00h - BARCELONA X TOTTENHAM
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
