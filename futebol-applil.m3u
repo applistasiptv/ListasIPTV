@@ -26,34 +26,12 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 11h - VASCO X CORINTHIANS
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 11h - PALMEIRAS X PARANA
-http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - FLAMENGO X SPORT
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - CRUZEIRO X SAO PAULO
-http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - INTERNACIONAL X BOTAFOGO
-http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16h - ATLETICO/PR X VITORIA
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 8:30h - PSG X ATLETICO DE MADRID
 http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - SANTOS X AMERICA/MG
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - CHAPECOENSE X GREMIO
-http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19h - REMO X ABC
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19:15 Hrs - FERROVIARIO X TREZE
 http://aovivo2.goo.bo:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 22:30h - LOS ANGELES GALAXY X ORLANDO CITY
-http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 20:00 Hrs - BAHIA X ATLETICO/MG
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
 
