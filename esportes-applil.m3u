@@ -22,25 +22,15 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
-
 ###########################################################################################
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:00 Hrs - ARSENAL X CHELSEA
-http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 16:30 Hrs - TORINO X CHAPECOENSE
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19:30 Hrs - SANTOS X CRUZEIRO
 http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 17:00 Hrs - BENFICA X LYON
-http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19:30 Hrs - SANTOS X CRUZEIRO
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 19:30 Hrs - NACIONAL PARAGUIA X BOTAFOGO
-http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 21:45 Hrs - GREMIO X FLAMENGO
 http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
@@ -50,7 +40,6 @@ http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8uzd6go" group-title="Jogos de Hoje", 21:45 Hrs - BANFIELD X BOSTON RIVER
 http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
-
 
 ###########################################################################################
 ############################################ ESPORTE ######################################
