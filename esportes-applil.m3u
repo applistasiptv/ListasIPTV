@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 02/08/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 04/08/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,25 +18,10 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 02/08/2018 ", Baixe nosso app
-https://www.youtube.com/watch?v=owBWKjmFMGY
+######EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 04/08/2018 ", Baixe nosso app
+##https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
-###########################################################################################
-########################################   FUTEBOL   ######################################
-###########################################################################################
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19:15h - BAHIA X PALMEIRAS
-http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19:30h - SAO PAULO X COLON
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 21:45h - BOLIVAR X DEPORTIVO CALI
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 21:45h - FLUMINENSE X DEFENSOR
-http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
 
 
 ###########################################################################################
@@ -88,6 +73,29 @@ http://tv.bmx-tv.top:1935/live/2.smil.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tufftv.com/media/site/images/logo-tufftv.png" group-title="Esportes", Tuff TV
 http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2.m3u8
+
+
+###########################################################################################
+########################################   FUTEBOL   ######################################
+###########################################################################################
+
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
+http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
+http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
+http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
+http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
 
 
 ###########################################################################################
