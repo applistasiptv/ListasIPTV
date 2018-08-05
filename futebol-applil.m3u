@@ -18,30 +18,24 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-######EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 04/08/2018 ", Baixe nosso app
-##https://www.youtube.com/watch?v=owBWKjmFMGY
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 05/08/2018 ", Baixe nosso app
+https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
 ###########################################################################################
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - SPORT X CHAPECOENSE
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - FLUMINENSE X BAHIA
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://aovivo2.goo.bo:8081/live/7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - JUAZEIRENSE X SANTA CRUZ
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://aovivo2.goo.bo:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 20h - SANTOS LAGUNA X PUEBLA
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
 
