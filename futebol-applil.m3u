@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 04/08/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 05/08/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -26,16 +26,12 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - SPORT X CHAPECOENSE
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - FLUMINENSE X BAHIA
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 20h - ATLÉTICO/MG X INTERNACIONAL
 http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - JUAZEIRENSE X SANTA CRUZ
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 21:15h - SALGUEIRO X REMO
 http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 20h - SANTOS LAGUNA X PUEBLA
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Bem Amigos", 22:00 Hrs - BEM AMIGOS
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
