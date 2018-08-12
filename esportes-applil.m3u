@@ -27,46 +27,25 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 11:00 Hrs - ATLETICO/MG X SANTOS
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 16h - FLAMENGO X CRUZEIRO
 http://apk.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 11:00 Hrs - PARANA X BOTAFOGO
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 16h - CHAPECOENSE X CORINTHIANS
 http://apk.futeboltv.com:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 11h - BOCA JUNIORS X TALLERES CORDOBA
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 16h - SPORT X SAO PAULO
 http://apk.futeboltv.com:8081/live/5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 12:00 Hrs - MOREIRENSE X SPORTING
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 17h - TORONTO FC X NEW YORK CITY
 http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 12:00 Hrs - ARSENAL X MANCHESTER CITY
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 12:30 Hrs - BORUSSIA DORTMUND X LAZIO
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 15:30 Hrs - EINTRACHT X BAYERN DE MUNIQUE
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 16:00 Hrs - FLAMENGO X CRUZEIRO
-http://apk.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 16:00 Hrs - CHAPECOENSE X CORINTHIANS
-http://apk.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 16:00 Hrs - SPORT X SAO PAULO
-http://apk.futeboltv.com:8081/live/5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 17:00 Hrs - TORONTO FC X NEW YORK CITY
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19:00 Hrs - GREMIO X VITORIA
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - GREMIO X VITORIA
 http://apk.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19:00 Hrs - PALMEIRAS X VASCO
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 19h - PALMEIRAS X VASCO
 http://apk.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 20:00 Hrs - HURACAN X RIVER PLATE
+#EXTINF:-1 tvg-logo="https://png.icons8.com/metro/1600/football2.png" group-title="Jogos de Hoje", 20h - HURACAN X RIVER PLATE
 http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
 
 
