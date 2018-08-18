@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 17/08/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol AO VIVO - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 18/08/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 17/08/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 18/08/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -27,12 +27,51 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Jogos de Hoje", 20:30h - VILA NOVA X CRB
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="10:30h", 10:30h - DROCHSTERSEN X BAYERN DE MUNIQUE
+http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="11h", 11h - TOTTENHAM X FULMAN
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="11h", 11h - EVERTON X SOUTHAMPTON
 http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Jogos de Hoje", 21:30 Hrs - FIGUEIRENSE X GOIAS
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="13:30h", 13:30h - VENLO X AJAX
+http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="13:30h", 13:30h - CHELSEA X ARSENAL
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="15h", 15h - BOA VISTA X BENFICA
+http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - BRAGANTINO X NAUTICO
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - SANTOS X SPORT
+http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16:30h", 16:30h - OESTE X JUVENTUDE
+http://apk3.futeboltv.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16:30h", 16:30h - FORTALEZA X BOA ESPORTE
 http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Jogos de Hoje", 23:00 Hrs - ATLAS X MONARCAS
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16:30h", 16:30h - ATLETICO/GO X CORITIBA
+http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17h", 17h - SEATTLE SOUNDERS
 http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17h", 17h - SPORTING X VITORIA SETUBAL
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19h", 19h - SAMPAIO CORREIA X GUARANI
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19h", 19h - CORINTHIANS X GREMIO
+http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="21h", 21h - CSA X SAO BENTO
+http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
 
