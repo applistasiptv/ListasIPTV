@@ -27,18 +27,6 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="10:30h", 10:30h - VIKTORIA X LEIPZIG
-http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="11h", 11h - ATLETICO/PR X FLAMENGO
-http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="11h", 11h - INTERNACIONAL X PARANA
-http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="12h", 12h - BRINGHTON X MANCHESTER UNITED
-http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="14:30h", 14:30h - BELENENSES X PORTO
 http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
 
@@ -55,19 +43,19 @@ http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
 http://apk3.futeboltv.com:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17h", 17h - SANTA CRUZ X OPERARIO
-http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17h", 17h - REAL MADRID X GETAFE
 http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17:15h", 17:15h - SAN LORENZO X LANUS
-http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19h", 19h - SAO PAULO X CHAPECOENSE
 http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19h", 19h - BOTAFOGO/PB X BOTAFOGO/SP
-http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
 
 
