@@ -27,35 +27,30 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="14:30h", 14:30h - BELENENSES X PORTO
-http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="15:15h", 15:15h - RAYO VALLECANO X SEVILLA
-http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - VITORIA X PALMEIRAS
-http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - CRUZEIRO X BAHIA
-http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - BOTAFOGO X ATLETICO/MG
-http://apk3.futeboltv.com:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17h", 17h - SANTA CRUZ X OPERARIO
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17h", 17h - REAL MADRID X GETAFE
-http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17:15h", 17:15h - SAN LORENZO X LANUS
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="15h", 15h - ESTUDIANTES X BOCA JUNIORS
 http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19h", 19h - SAO PAULO X CHAPECOENSE
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="15h", 15h - VALENCIA X ATLETICO DE MADRID
+http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="15:45h", 15:45h - GRUTER FURTER X BORUSSIA DORTMUND
 http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19h", 19h - BOTAFOGO/PB X BOTAFOGO/SP
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - CRYSTAL PALACE X LIVERPOOL
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="17h", 17h - ATLETICO DE BILBAO X LEGANES
+http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="20h", 20h - VASCO X CEARA
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="21h", 21h - CUIABA X ATLETICO/AC
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pensabrasil.com/wp-content/uploads/2016/11/galvao-detona.png" group-title="22h - BEM AMIGOS" pltv-subgroup="22h", 22h - BEM AMIGOS
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
 
 
 
