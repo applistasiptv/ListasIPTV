@@ -1,10 +1,10 @@
 #EXTM3U
-=
+
 ###########################################################################################
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 21/08/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 22/08/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 21/08/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 22/08/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -28,16 +28,41 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="22h", 22h - Independiente X Santos
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="22h", 22h - Independiente X Santos
-http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="15:45h", 15:45h - ASTON VILLA X BRENTFORD
+http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="22h", 22h - Independiente X Santos
-http://apk.futeboltv.com:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - YOUNG BOYS X DINAMO ZAGRED
+http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="22h", 22h - Independiente X Santos
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16h", 16h - VIDI FC X AEK ATENAS
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="16:30h", 16:30h - SUB 20 - VASCO X FLAMENGO
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="18h", 18h - SUB 20 - INTERNACIONAL X CORINTHIANS
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19:30h", 19:30h - PARANA X SAO PAULO
+http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="19:30h", 19:30h - BAHIA X INTERNACIONAL
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="21h", 21h - SPORT X AMERICA/MG
+http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="21h", 21h - PALMEIRAS X BOTAFOGO
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="21:45h", 21:45h - LDU X DEPORTIVO CALI
+http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="21:45h", 21:45h - GREMIO X CRUZEIRO
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje" pltv-subgroup="21:45h", 21:45h - FLUMINENSE X CORINTHIANS
 http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
 
@@ -49,25 +74,28 @@ http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv
-http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 2
-http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 3
-http://apk3.futeboltv.com:8081/live/7/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.torcedores.com/content/uploads/2015/03/fox-sports.png" group-title="Esportes", Fox Sports
-http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jo9fgG4CoiI/W32aS08d8GI/AAAAAAAAB0Q/RhrIyZVw1kIzsTiRiYDxVYHqTHcC5MOuACK4BGAYYCw/s320/FOX_Sports_logo.svg.png" group-title="Esportes", Fox Sports
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jo9fgG4CoiI/W32aS08d8GI/AAAAAAAAB0Q/RhrIyZVw1kIzsTiRiYDxVYHqTHcC5MOuACK4BGAYYCw/s320/FOX_Sports_logo.svg.png" group-title="Esportes", Fox Sports 2
+http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN
-http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN Brasil
-http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yboel5eq" group-title="Esportes", Esporte Interativo
-http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg" group-title="Esportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
@@ -75,23 +103,11 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-logo="https://www.designfootball.com/design-galleries/football-crests/orig-sevilla-fc-29679" group-title="Esportes", Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--CgcKHH0hyY/Uklnu61BW4I/AAAAAAAAAqw/uxx6nNED2aY/w1200-h630-p-k-no-nu/combate+nova+logo.jpg" group-title="Esportes", Combate
-https://tinyurl.com/y933th8u
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4c/68/c8/4c68c8141e07004261dc3c306c8d3723.png" group-title="Esportes", NBA TV
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gfxmag.com/wp-content/uploads/2016/07/red-bull-tv-vector-logo.png" group-title="Esportes", RedBull TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-nvYuPVNPxuk/W32Z8IuIzEI/AAAAAAAAB0E/2hawQWtTvB8t8L3GE_aXJf8DQdyIDjrVQCK4BGAYYCw/s400/redbulllogo.jpg" group-title="Esportes", RedBull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/V1EEcq" group-title="Esportes", AutoMoto TV
-http://178.22.187.253:1935/streaming-tv/mp4:myStream3.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/925747748913082369/EapLE_Wr_400x400.jpg" group-title="Esportes", Fight Network
-http://tv.bmx-tv.top:1935/live/2.smil.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tufftv.com/media/site/images/logo-tufftv.png" group-title="Esportes", Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2.m3u8
 
 
 ###########################################################################################
