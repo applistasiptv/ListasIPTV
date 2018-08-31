@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 30/08/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 31/08/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 30/08/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 31/08/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -26,14 +26,26 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 17:00 Hrs - SUB 20 - FLAMENGO X VASCO
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:30 Hrs - HANNOVER X BORUSSIA DORTMUND
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19:30 Hrs - LIBERTAD X BOCA JUNIORS
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45 Hrs - LEEDS UNITED X MIDDLESBROUGH
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:45 Hrs - PALMEIRAS X CERRO PORTENO
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 17:00 Hrs - EIBAR X REAL SOCIEDAD
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19:15 Hrs - PAYSANDU X JUVENTUDE
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19:15 Hrs - LONDRINA X ATLETICO/GO
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:30 Hrs - CRB X SAMPAIO CORREIA
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:30 Hrs - PONTE PRETA X VILA NOVA/GO
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
 
 
 ###########################################################################################
@@ -42,28 +54,28 @@ http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 2
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 3
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jo9fgG4CoiI/W32aS08d8GI/AAAAAAAAB0Q/RhrIyZVw1kIzsTiRiYDxVYHqTHcC5MOuACK4BGAYYCw/s320/FOX_Sports_logo.svg.png" group-title="Esportes", Fox Sports
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jo9fgG4CoiI/W32aS08d8GI/AAAAAAAAB0Q/RhrIyZVw1kIzsTiRiYDxVYHqTHcC5MOuACK4BGAYYCw/s320/FOX_Sports_logo.svg.png" group-title="Esportes", Fox Sports 2
-http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN Brasil
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yboel5eq" group-title="Esportes", Esporte Interativo
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg" group-title="Esportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
@@ -104,19 +116,19 @@ https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfab
 ###########################################################################################
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/sport/256/Soccer-Ball-icon.png" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+http://apk3.futeboltv.com:8081/live/19/playlist.m3u8
