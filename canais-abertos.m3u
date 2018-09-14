@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="TV Aberta SD - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 13/09/2018" pltv-cover="https://imgur.com/Sqd2ocg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/canais"
+#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="TV Aberta SD - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 14/09/2018" pltv-cover="https://imgur.com/Sqd2ocg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/canais"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 13/09/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 14/09/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -245,9 +245,6 @@ http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="AGRO BRASIL" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta SD", AGRO BRASIL
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AGRO CANAL" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="TV Aberta SD", AGRO CANAL
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-
 #EXTINF:-1 tvg-id="CANAL RURAL X" tvg-logo="https://i.imgur.com/FdKHLtc.png?1" group-title="TV Aberta SD",CANAL RURAL X
 http://77149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
  
@@ -259,6 +256,6 @@ http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
 #EXTINF:-1 tvg-id="POLISHOP TV" tvg-logo="https://i.imgur.com/1bg86Dc.png?1" group-title="TV Aberta SD", POLISHOP TV
 http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/chunklist_w1266858146.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gg2IWHw.png?1" group-title="TV Aberta SD", CANAL DA GENTE
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@533316/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="TV Aberta SD", CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8 
