@@ -89,6 +89,14 @@ http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 ############################################ ESPORTE ######################################
 ###########################################################################################
 
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/3220/screenshots/1146920/ufc-icon.png" group-title="19:15h - UFC", 19:15h - UFC
+http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+
+
+###########################################################################################
+############################################ ESPORTE ######################################
+###########################################################################################
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv
 http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
