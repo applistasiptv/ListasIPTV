@@ -26,27 +26,39 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 13:30h - WERDER BREMEN X HERTHA BERLIM
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 13:30h - FORTUNA DUSSELFORD X BAYERN LEVERKUSEN
 http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:30h - BAYERN DE MUNIQUE X AUGSBURG
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 14h - UDINESE X LAZIO
+http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - OXFORD UNITED X MANCHESTER CITY
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15h - LEGANES X BARCELONA
 http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16:00h - INTER DE MILAO X FIORENTINA
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16:00h - MANCHESTER UNITED X DERBY COUNTY
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19:15h - FORTALEZA X SAO BENTO
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:15h - NACIONAL URUGUAI X SAO BENTO
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:30h - BORUSSIA DORTMUND X NUREMBERG
 http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:30h - PONTE PRETA X BRASIL DE PELOTAS
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - ARSENAL X BENTFORD
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - LIVERPOOL X CHELSEA
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16h - JUVENTUS X BOLOGNA
+http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 17h - VALENCIA X CELTA DE VIGO
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 18h - SUB 20 - FLUMINENSE X PALMEIRAS
 http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:15h - JUNIOR BARRANQUILA X COLON
+http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:45h - CRUZEIRO X PALMEIRAS
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:45h - CORINTHIANS X FLAMENGO
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
