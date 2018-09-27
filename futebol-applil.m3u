@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 26/09/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 27/09/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 26/09/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 27/09/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -26,39 +26,18 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 13:30h - FORTUNA DUSSELFORD X BAYERN LEVERKUSEN
-http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 14h - UDINESE X LAZIO
-http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15h - LEGANES X BARCELONA
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 17:20h - CHAVES X BENFICA
 http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:30h - BORUSSIA DORTMUND X NUREMBERG
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - ARSENAL X BENTFORD
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - LIVERPOOL X CHELSEA
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16h - JUVENTUS X BOLOGNA
-http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 17h - VALENCIA X CELTA DE VIGO
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 18h - SUB 20 - FLUMINENSE X PALMEIRAS
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19h - JUVENTUDE X LONDRINA
 http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:15h - JUNIOR BARRANQUILA X COLON
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:45h - CRUZEIRO X PALMEIRAS
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 20h - SANTOS X VASCO
 http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:45h - CORINTHIANS X FLAMENGO
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21h - SUB 20 - VITORIA X FLAMENGO
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:15h - BANFIELD X DEFENSA Y JUSTICIA
 http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
