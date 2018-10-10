@@ -26,11 +26,6 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ######################################   BRASILEIRÃO   ####################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19:15h - PAYSANDU X CRB
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21h - BOTAFOGO X VASCO
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Final - Copa do Brasil", 21:45h CRUZEIRO X CORINTHIANS
 http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:30h - CRICIUMA X BRASIL DE PELOTAS
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
