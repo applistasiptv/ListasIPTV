@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 12/10/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 13/10/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 12/10/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 13/10/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -27,27 +27,34 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   FUTEBOL   ######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15h - ARABIA SAUDITA X BRASIL          http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
-  
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - BELGICA X SUICA
-http://apk2.futeboltv.com:8081/live/5/playlist.m3u8  
-  
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - CROACIA X INGLATERRA          http://apk2.futeboltv.com:8081/live/8/playlist.m3u8      
-  
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19:15h - JUVENTUDE X GOIAS          http://apk2.futeboltv.com:8081/live/20/playlist.m3u8   
-  
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 20:30h - ATLETICO/GO X SAMPAIO CORREIA          http://apk2.futeboltv.com:8081/live/8/playlist.m3u8    
-  
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21:30h - CSA X PONTE PRETA          http://apk2.futeboltv.com:8081/live/20/playlist.m3u8  
-  
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 23h - LOS ANGELES FC X HOUSTON DYNAMO          http://apk2.futeboltv.com:8081/live/7/playlist.m3u8    
-
-###########################################################################################
-############################################## NBA ########################################
-###########################################################################################
-  
-#EXTINF:-1 tvg-logo="https://cdn.nba.net/nba-drupal-prod/2017-08/SEO-image-NBA-logoman.jpg" group-title="23:30h - NBA", 23:30h - NBA
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 15:45h - HOLANDA X ALEMAMHA
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16:30h - OESTE X FORTALEZA
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16:30h - VILA NOVA X BOA ESPORTE        http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16:30h - GUARANI X AVAI
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 17h - FLAMENGO X FLUMINENSE
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 18h - DC UNITED X DALLAS FC
+http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19h - FIGUEIRENSE X CORITIBA
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 19h - SANTOS X CORINTHIANS
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21h - LONDRINA X SAO BENTO
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 21h - BAHIA X PARANA
+http://apk2.futeboltv.com:8081/live/5/playlist.m3u8 
 
 ###########################################################################################
 ############################################ ESPORTE ######################################
