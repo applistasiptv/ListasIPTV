@@ -40,7 +40,8 @@ http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
   
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Rodadas de Hoje", 16h - INTERNACIONAL X SAO PAULO     http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
   
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Rodadas de Hoje", 19h - ATLETICO/MG X AMERICA/MG     http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Rodadas de Hoje", 19h - ATLETICO/MG X AMERICA/MG
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
   
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Rodadas de Hoje", 19h - ATLETICO/PR X SPORT
 http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
