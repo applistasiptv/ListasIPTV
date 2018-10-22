@@ -27,11 +27,5 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ######################################   BRASILEIRÃO   ####################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16h - REAL SOCIEDAD X GIRONA
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 16h - ARSENAL X LEICESTER
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="Jogos de Hoje", 20h - INTERNACIONAL X SANTOS
 http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
