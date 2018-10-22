@@ -26,17 +26,17 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ################################### TODO MUNDO ODEIA O CHRIS ##############################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://static.quizur.com/i/b/58603bc3e2bcc4.2912289758603bc3c96fa2.08783272.jpg" group-title="Todo Mundo Odeia o Chris", Todo Mundo Odeia o Chris
+EXTINF:-1 tvg-logo="https://static.quizur.com/i/b/58603bc3e2bcc4.2912289758603bc3c96fa2.08783272.jpg" group-title="Todo Mundo Odeia o Chris", Todo Mundo Odeia o Chris
 http://apk2.futeboltv.com:8081/live/10/playlist.m3u8
 
 ###########################################################################################
 ########################################   CANAIS   #######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", Globo SD
+EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", Globo SD
 http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/tntla-main-theme/images/custom/thumb.jpg" group-title="Canais", TNT
+EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/tntla-main-theme/images/custom/thumb.jpg" group-title="Canais", TNT
 http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT GO" tvg-logo="https://media.lovemondays.com.br/logos/e7f696/redetv-1-original.png" group-title="Canais", Rede TV
