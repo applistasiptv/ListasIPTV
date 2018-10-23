@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="http://bit.ly/2v3nvOe" pltv-name="Desportes - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ACTUALIZADA EN: 14/09/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="http://bit.ly/2v3nvOe" pltv-name="Desportes - app Listas IPTV" pltv-description="Descargue nuestra aplicación, haga clic en SITE, ACTUALIZADA EN: 23/10/2018" pltv-cover="http://appsli.me/WaCBPiqv" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Descargar nuestro APP", Descargar nuestro APP
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Descargar nuestro APP
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Actualizada 14/09/2018 ", Descargar nuestro APP
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Actualizada 23/10/2018 ", Descargar nuestro APP
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
@@ -39,18 +39,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Porto Canal
-http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Teletrak
-http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Todo DEPORTES
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NFL Now
-http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
@@ -62,27 +50,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", KTV Sport Kuwait
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", SportsTV
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pac 12 Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pac 12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pac 12 Los Angeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pac 12 Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pac 12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pac 12 Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
@@ -102,12 +69,6 @@ http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Maxima Tv HD
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Tv Pop
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Arab Tv
-http://149.56.17.92:1935/8404/8404/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 
@@ -119,12 +80,6 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgrat
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Runway Fashion
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ID Fashion
-http://95.67.8.22/hls/idfashion/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -159,9 +114,6 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b18
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 26 3
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 13 Max Digital
-http://www.coninfo.net:1935/13max/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 
@@ -170,15 +122,6 @@ http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgrati
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 4 Jujuy
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TDC
-http://painel.serveron.com.br:1935/8166/8166/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Cable Noticias
-http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Willax
 http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
@@ -195,9 +138,6 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal Capital
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CTV Peru
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
@@ -210,14 +150,8 @@ http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Central TV Perú
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TvES
 http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TeleSUR 31
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TVO
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8
@@ -228,23 +162,11 @@ http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TC
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Telefuturo
-http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ocho Tv
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Azteca Trece
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Mas
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NIU Tv HD
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w2021541242_b1500000_slesp.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NIU Tv SD
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w2021541242_b750000_slesp.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Radio Futuro Tv
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
@@ -273,26 +195,11 @@ http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Desierto de Atacama TV Atacama
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Cappissima Multimedial Arica
-http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Antofagasta Tv Antofagasta
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1163148329_b1428000.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TVO San Vicente de tagua Tagua
-http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CNC Colchagua Santa Cruz
-http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Sextavision Rancagua
-http://cl.streaminghd.cl/carlos132/carlos132/chunklist_w1205226236.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ñuble Tv
 https://593b04c4c5670.streamlock.net/tvdaniel/tvdaniel/chunklist_w687739368.m3u8
@@ -300,29 +207,17 @@ https://593b04c4c5670.streamlock.net/tvdaniel/tvdaniel/chunklist_w687739368.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 9 Bio Bio Concepción HD
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Dinamica Tv Coronel
-http://evo.eltelon.com:1935/live/dinamica-television/chunklist_w235225936.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ufrovision Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ATV valdivia
 http://190.107.176.55:1935/live/atv-valdivia/chunklist_w636312347.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 75 Castro
-http://streaminglivehd.com:1935/8038/8038/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ITV Punta Arenas
-http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", El Pinguino Tv Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", UMAGTV Punta Arenas
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", vicion celestial
-http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Cristovision
 http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8
@@ -351,12 +246,6 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TNE Tv
 http://video.crearchile.info:8080/live/tnetv1/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Vision Celestial
-http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Reino Tv
-http://streaming.omeganet.org:1935/reinotv/envivo/chunklist_w29851567.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", El Mesias Tv
 http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8?iptvgratis?chile.m3u8
 
@@ -374,9 +263,6 @@ http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Teledunamis
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", BYU Televisi0n
-http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", BYU Televisi0n Latino
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8?iptvgratis?chile.m3u8
@@ -398,9 +284,6 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgra
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RTV
 http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", SEC TV
-http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?
@@ -447,9 +330,6 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rede TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rede TV PB
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rede TV RO
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?
 
@@ -461,12 +341,6 @@ http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NBR
 http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Mega TV
-http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", SB4
-http://media.az-mediaserver.com:1935/7120/7120/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", G2PTV
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?
@@ -482,9 +356,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", DeporTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CBN News
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
@@ -630,9 +501,6 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Kool London Radio
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
@@ -675,12 +543,6 @@ http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Wairarapa TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", GBN
-http://172.93.120.62:8080/gbnlive/livestream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ALEX Berlin
-http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Allgau TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 
@@ -692,9 +554,6 @@ http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", EOTV
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
@@ -750,17 +609,11 @@ http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", W24
-http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", AT5
 http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Klipkar TV
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NH
 http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8
@@ -770,9 +623,6 @@ http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Omroep West
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Omroep Zeeland
-http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Omrop Fryslan
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
@@ -804,26 +654,14 @@ http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Charlie
-http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Fri
-http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Fyn
 http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Lorry
 http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Nord
-http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Sport
 http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV2 Zulu
-http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Syd
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
@@ -849,17 +687,11 @@ http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 24 Corren
 http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Fjorton
-http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Kanal 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Vastmanlands TV
-http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w404315212.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ATV (Dutch)
 http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
@@ -927,23 +759,11 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Radio Monte Carlo
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Radio Taormina
-http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Radio Virgin TV
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rai News 24
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rete 55
-http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Retesole
 http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
@@ -1002,9 +822,6 @@ http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Assembleia SP
 http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Brasil
-http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Faap
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 
@@ -1032,17 +849,11 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Wizard TV
-http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Andorra TV
 http://194.158.80.31:443/live/rtva/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 101 TV Malaga
 http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 8 TV
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 324
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
@@ -1137,9 +948,6 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 4 Jujuy
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
@@ -1152,17 +960,11 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 26*
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 79 Clima + Servicios
-http://painel.serveron.com.br:1935/8168/8168/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Europa Europa
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
@@ -1191,9 +993,6 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Acapulco
-http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RCG 1 TV
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
@@ -1203,14 +1002,8 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RCG 3 TV
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RTG
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ocho TV
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Mexiquense TV
-http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Puebla TV
 http://189.203.247.136/live/pueblatv/playlist.m3u8
@@ -1221,23 +1014,11 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TVMas
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Arica TV [NoKodi]
-http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Bio Bio TV Canal 9
-http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CNN
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal Carnaval 38
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Niu TV
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
@@ -1266,17 +1047,11 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Peravia Vision Canal 8
-http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Xtremo Channel
 http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Capital TV
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RBC TV
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
@@ -1323,14 +1098,8 @@ http://edge.wms28.lorini.net/promar/promar/live.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Promar TV*
 http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TeleSUR
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TVO
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Vale TV
-http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 1 HD
 http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
@@ -1338,14 +1107,8 @@ http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 7 TV
 http://78.40.108.218/7channel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 9 Volna
-http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Akudji TV
 http://hls.goodgame.ru/hls/5346.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Game Show Studio
-http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", HardLife TV
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
@@ -1353,20 +1116,11 @@ http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Impact
 http://206.190.141.27:1935/live/impact/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Kanal Omsk
-http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Life News
-http://tv.life.ru/lifetv/720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", O2 TV
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RBC
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", World Fashion
-http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RZD TV
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
@@ -1392,9 +1146,6 @@ http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Acasa TV
 http://hls.protv.md/acasatv/acasatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Actualitatea
-http://188.210.224.6:81/tv4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Pro TV
 http://hls.protv.md/hls/protv.m3u8
 
@@ -1403,9 +1154,6 @@ http://livebeta.publika.md/LIVE/P/6810.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Buzau
-http://95.77.16.72:81/tv20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", City TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
@@ -1449,23 +1197,8 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Nitricka
-http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV Pezinok
 http://s1.media-planet.sk:80/live/pezinok/BratuMarian.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Twoja TV
-http://94.246.169.19/ttv_hls/live_270p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Tisza TV
-http://www.tiszatv.hu:443/tiszatv.f4v
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", AABC TV
-http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", MTV.AM
-http://mtvam.ru/hlsam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Digi 24
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
@@ -1485,12 +1218,6 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Cannali TV
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Crete TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Fox TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 
@@ -1503,20 +1230,11 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Life Kids Network
 http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Makedonia TV
-http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Mega Cosmos (CA)
-http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Montreal Greek TV (CA)
 http://138.197.136.102:8081/live/greektv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NETV (CA)
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", New Generation
-http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Syros TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
@@ -1566,9 +1284,6 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV 10
-http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", /playlist.m3u8
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
@@ -1583,9 +1298,6 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Keshet [NoKodi]
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ILand TV (Russian)
-http://146.185.61.140:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 9x Jalwa
 http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/master.m3u8
@@ -1607,9 +1319,6 @@ http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", DD Punjabi
-http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
@@ -1635,23 +1344,11 @@ http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NDTV 24x7
 http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NDTV Prime
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/chunklist_w1017334011_b512000.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NewsX (English)
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Paras TV
-http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Raagam Radio
 http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rajya Sabha TV
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rengoni
-http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Vendhar TV
 http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
@@ -1680,9 +1377,6 @@ http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", VoA
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ~ Arabic News ~
-http://192.99.35.215:5109/stream
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
@@ -1691,12 +1385,6 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Arabica TV
-https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Al Mayadeen
-http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
@@ -1710,17 +1398,11 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Nabd Syria
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Al Taghier
-http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ~ Palestine TV ~
 http://users.atw.hu/szbszig/palestine.mp3
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
@@ -1740,14 +1422,8 @@ http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Saudi Documentary
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Masdar TV
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ajyal TV
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Wanasah
-http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
@@ -1781,9 +1457,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Abu Dhabi Sports 1*
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
@@ -1845,18 +1518,6 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Oman TV
-http://38.96.148.30:1935/live/omantv1//playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Oman Mubasher
-http://38.96.148.30:1935/live/omantv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Oman Documentary
-http://38.96.148.30:1935/live/omantv4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Oman Sports
-http://38.96.148.30:1935/live/omantv2//playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
 
@@ -1874,12 +1535,6 @@ http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Bernama
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Jakarta Globe (English)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2121000.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Insan TV [Off]
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
@@ -1929,17 +1584,11 @@ http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ~ Adult Swim ~
 http://stream.dubstep.fm:80/256mp3
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CBS 5 News (Arizona)
-http://wnmeredithaz-lh.akamaihd.net/i/MEREDITHAZ_1313@308211/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NBC 11 News (Bay Area)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", WGN 9 News (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CBS 5 News (Colorado)
-http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", WVIT 30 News (Hartford)
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
@@ -2019,33 +1668,6 @@ http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Toronto - CN Tower 2
 http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Plougonvelin - Bretagne - France
-http://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Germany - Neuharlingersiel - Hafen West
-http://stream.livespotting.tv/windit-edge/vv13_450p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Germany - Neuharlingersiel - Hafen Ost
-http://stream.livespotting.tv/windit-edge/vv12_450p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Germany - Neuharlingersiel - Panorama
-http://stream.livespotting.tv/windit-edge/vv14_450p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Germany - Timmendorfer Strand
-http://stream.livespotting.tv/windit-edge/vv9_450p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Torfhaus - Harz
-http://stream.livespotting.tv/windit-edge/vv52_720p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Germany - Travemunde - Strand
-http://stream.livespotting.tv/windit-edge/vv54_450p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Germany - Warnemunde - Best Western Hotel
-http://stream.livespotting.tv/windit-edge/vv20_450p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Germany - Wiek - Rugen
-http://stream.livespotting.tv/windit-edge/vv25_450p.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", ~ World News ~
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
@@ -2067,9 +1689,6 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Nickeloden Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Kool TV
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
@@ -2079,20 +1698,11 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/maste
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 25 Televisio
-http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 8 Cadiz TV
-http://cls.todostreaming.eu/unatv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 8 TV*
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Antena 3 Int'l
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Beteve
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
@@ -2115,9 +1725,6 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", HTV Huelva
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Imas TV
 http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
 
@@ -2129,27 +1736,6 @@ http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_s
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Onda Algeciras
 http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ondaluz Cadiz [NoKodi]
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ondaluz Costa del Sol [NoKodi]
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ondaluz Costa Noroeste [NoKodi]
-http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ondaluz Jerez [NoKodi]
-http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ondaluz Sevilla [NoKodi]
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Popular TV Cantabria
-http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ribera TV
-http://188.165.135.22/ribera/livestream/.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", San Roque TV
 http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
@@ -2169,14 +1755,8 @@ http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV3*
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", A+
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Sathiyam TV
-http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", 100% Automoto (BG)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -2196,9 +1776,6 @@ http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/play
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Beatz HD
 http://beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", BFM
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", BLOOMBERG
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/live.m3u8
 
@@ -2211,15 +1788,6 @@ http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Brazil 1 FTA
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", C-Span
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", C-Span 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", C-Span 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Carina TV
 http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
 
@@ -2228,9 +1796,6 @@ http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CBS 47
-http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
@@ -2244,17 +1809,8 @@ http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Czwolka(Poland)
-http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Daystar
 https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", DeporTV (Argentina)
-http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Der Aktionar TV
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Deutsche Welle (DE)
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
@@ -2276,9 +1832,6 @@ http://bogtvhdlive-f.akamaihd.net/main_1_400@79148?v=2.9.4&fp=WIN%2016,0,0,257&r
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Family TV
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Fil TV
-http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", France 24 (EN)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -2319,12 +1872,6 @@ http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Israel 2 FTA
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Joias Vip BR
-http://ams2.dtcompany.com.br:1935/live/smil:joiasvip.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", JOJ Family
 http://nn.geo.joj.sk/hls/family-540.m3u8
 
@@ -2336,15 +1883,6 @@ http://154.obj.netromedia.net:80/LoveWorldtv/LoveWorldtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Luz TV (Spa.)
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Nebiset Music
-http://hls.nebiset.tv/nebiset.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Ondoluz
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Polskie Radio 24 WEB
-http://stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Radio 105 TV
 http://tv.105.net:1935/live/105Test1/playlist.m3u8
@@ -2370,17 +1908,8 @@ http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Radio Pilatus
 http://rp_tv.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Radio Taormina TV (It)
-http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RADIO U TV
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rai 5
 http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", RE TV (Latv)
 http://edge-telia2.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
@@ -2415,14 +1944,8 @@ http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Sports TV
-http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TELEBARN
 http://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", The Dove (USA)
-http://s1.thedove.us:1935/theDoveTV/3theDoveTV.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", Top Sound
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
@@ -2447,4 +1970,3 @@ http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd7gsgt6" group-title="Sports/Desportes", TV 4
 http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
-
