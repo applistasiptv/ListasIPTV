@@ -45,9 +45,6 @@ http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 ############################################ ESPORTE ######################################
 ###########################################################################################
 
-EXTINF:-1 tvg-logo="" group-title="Futebol Americano", 21:15h - NFL
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://bit.ly/2nNA8db" group-title="22h - BEM AMIGOS", 22h - BEM AMIGOS
 http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
 
