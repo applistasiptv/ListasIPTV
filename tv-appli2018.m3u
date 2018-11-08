@@ -4,21 +4,14 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="Canais - app Listas IPTV" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 01/10/2018" pltv-cover="https://imgur.com/Sqd2ocg" pltv-author="app Listas IPTV Lite: Lista iptv gratis e atualizada" pltv-site="http://appsli.me/canais"
+#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="Canais - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 08/11/2018" pltv-cover="https://imgur.com/Sqd2ocg" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://appsli.me/canais"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="http://appsli.me/canais", http://appsli.me/canais
-https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/13HTbja7mZN3f66XXAhSAu9vKIZs0oNAloW1ZyzEyVNEWnDyOaynhN21tVS9w-7UO6U=s180-rw" group-title="http://bit.ly/appli-g", 
-https://www.youtube.com/watch?v=owBWKjmFMGY
-
-#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/1211/PNG/512/1491579586-yumminkysocialmedia21_83091.png" group-title="http://bit.ly/fb-appListasIPTV", Baixe nosso app
-https://www.youtube.com/watch?v=owBWKjmFMGY
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 01/10/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 08/11/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
