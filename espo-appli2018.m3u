@@ -4,7 +4,7 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 08/11/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 10/11/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://appsli.me/esportes"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
@@ -12,14 +12,31 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 #EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="http://appsli.me/esportes", http://appsli.me/esportes
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 08/11/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 10/11/2018 ", Baixe nosso app
 https://www.youtube.com/watch?v=owBWKjmFMGY
 
 
+###########################################################################################
+########################################   FUTEBOL   ######################################
+###########################################################################################
 
-###########################################################################################
-######################################## FUTEBOL ##########################################
-###########################################################################################
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
 
 ########################################################################
@@ -88,24 +105,3 @@ http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f96
 https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
 
 
-###########################################################################################
-########################################   FUTEBOL   ######################################
-###########################################################################################
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
