@@ -4,15 +4,15 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="Canais - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 13/11/2018" pltv-cover="https://imgur.com/Sqd2ocg" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://appsli.me/canais"
+#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="Canais - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 14/12/2018" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://bit.ly/lig-app"
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Baixe nosso app", Baixe nosso app
-https://www.youtube.com/watch?v=owBWKjmFMGY
+https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="http://appsli.me/canais", http://appsli.me/canais
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="http://bit.ly/lig-app", http://bit.ly/lig-app
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 13/11/2018 ", Baixe nosso app
-https://www.youtube.com/watch?v=owBWKjmFMGY
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 14/12/2018 ", Baixe nosso app
+https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
 
 
 
@@ -20,17 +20,9 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ########################################   CANAIS   #######################################
 ###########################################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoiSmtr.png" group-title="Canais", A Fazenda HD
-https://nn4.azureedge.net//hls1/afazenda.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoiSmtr.png" group-title="Canais", A Fazenda SD
-https://nn4.azureedge.net//hls1/afazenda-sd.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", Globo HD
-https://canal.cometa.top/hls1/bobosp.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", Globo SD
-http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
@@ -272,4 +264,4 @@ http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 ###########################################################################################
 
 #EXTINF:-1 tvg-logo="https://static.quizur.com/i/b/58603bc3e2bcc4.2912289758603bc3c96fa2.08783272.jpg" group-title="Todo Mundo Odeia o Chris", Todo Mundo Odeia o Chris
-http://apk2.futeboltv.com:8081/live/10/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/10/playlist.m3u8

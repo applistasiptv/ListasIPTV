@@ -4,16 +4,16 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 13/11/2018" pltv-cover="http://bit.ly/2vCTQwk" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://appsli.me/esportes"
+#PLAYLISTV: pltv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png" pltv-name="Esportes - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 14/12/2018" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://bit.ly/lig-app"
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Baixe nosso app", Baixe nosso app
-https://www.youtube.com/watch?v=owBWKjmFMGY
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Baixe nosso app", Baixe nosso app
+https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="http://appsli.me/esportes", http://appsli.me/esportes
-https://www.youtube.com/watch?v=owBWKjmFMGY
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="http://bit.ly/lig-app", http://bit.ly/lig-app
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2v3nvOe" group-title="Atualizada 13/11/2018 ", Baixe nosso app
-https://www.youtube.com/watch?v=owBWKjmFMGY
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 14/12/2018 ", Baixe nosso app
+https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
+
 
 
 ###########################################################################################
@@ -21,22 +21,22 @@ https://www.youtube.com/watch?v=owBWKjmFMGY
 ###########################################################################################
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
 
 
 ########################################################################
@@ -45,28 +45,28 @@ http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 2
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967783194471825409/Nhv-vv1R_400x400.jpg" group-title="Esportes", Sportv 3
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jo9fgG4CoiI/W32aS08d8GI/AAAAAAAAB0Q/RhrIyZVw1kIzsTiRiYDxVYHqTHcC5MOuACK4BGAYYCw/s320/FOX_Sports_logo.svg.png" group-title="Esportes", Fox Sports
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-jo9fgG4CoiI/W32aS08d8GI/AAAAAAAAB0Q/RhrIyZVw1kIzsTiRiYDxVYHqTHcC5MOuACK4BGAYYCw/s320/FOX_Sports_logo.svg.png" group-title="Esportes", Fox Sports 2
-http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGcMtWuT80WSlcTBJeoEt5Uase9Y_Gnzpyg7hBPrBKlY8GGdz" group-title="Esportes", ESPN Brasil
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yboel5eq" group-title="Esportes", Esporte Interativo
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+https://apk25.futeboltvgratis.com/live/8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg" group-title="Esportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
