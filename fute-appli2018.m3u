@@ -4,13 +4,13 @@
 ######################################## INFORMACOES ######################################
 ###########################################################################################
 
-#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 16/12/2018" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://bit.ly/lig-app"
+#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol - Listas IPTV Grátis 2018" pltv-description="Baixe o nosso app, clique em SITE, ATUALIZADA EM: 17/12/2018" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg" pltv-author="app Listas IPTV Grátis 2018" pltv-site="http://bit.ly/lig-app"
 #EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Baixe nosso app", Baixe nosso app
 https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="http://bit.ly/lig-app", http://bit.ly/lig-app
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 16/12/2018 ", Baixe nosso app
+#EXTINF:-1 tvg-logo="http://bit.ly/2P0kTdc" group-title="Atualizada 17/12/2018 ", Baixe nosso app
 https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
 
 
@@ -47,26 +47,14 @@ https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 14h - LIVERPOOL X MANCHESTER UNITED
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 17:45h - DERBY COUNTY X NOTTINGHAM FOREST
 https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 15h - EINTRANCHT FRANKFURT X BAYER LEVERKUSEN	
-https://apk25.futeboltvgratis.com/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 16h - NFL - CHICAGO BEARS X GREEN BAY PACKERS	
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 18h - ALAVES X ATHLETIC DE BILBAO
 https://apk25.futeboltvgratis.com/live/3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 17h - AMISTOSO LANCE DE CRAQUE	
-https://apk25.futeboltvgratis.com/live/13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 21h - SORTEIO LIBERTADORES E SUDAMERICANA	
+https://apk25.futeboltvgratis.com/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 17:30 Hrs - ROMA X GENOA	
-https://apk25.futeboltvgratis.com/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 17:45 Hrs - LEVANTE X BARCELONA	
-https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 18h - NAUTICO X OLD BOYS
-https://apk25.futeboltvgratis.com/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 19h - AMIGOS DO FALCAO X ESTRELAS DO BRASIL	
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 21h - BEM AMIGOS
 https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
