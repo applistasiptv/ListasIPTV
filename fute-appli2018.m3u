@@ -6,7 +6,7 @@
 
 #PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol" pltv-description="Lista de Futebol" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg"
 
-#EXTINF:-1 group-title="Atualizada 29/12/2018 ", Lista Atualizada
+#EXTINF:-1 group-title="Atualizada 01.01.2019 ", Lista Atualizada
 
 
 ###########################################################################################
@@ -42,5 +42,5 @@ https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
 ###########################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 17:30h - MILAN X SPAL
+# EX TINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 17:30h - MILAN X SPAL
 https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
